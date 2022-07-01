@@ -24,6 +24,7 @@ Waiting for tasks
 
 ## Akmal
 Magic: Pendency related issues, attachment download bug
+
 HB: Reasearch on query builder (get help from Gurpreet & Inham)
 
 ## Inham
