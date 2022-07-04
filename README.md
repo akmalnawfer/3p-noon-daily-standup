@@ -31,6 +31,8 @@ Waiting for tasks
 
 HB: Reasearch on query builder => done, Discuss API schema + Rohit + Ankit, start work on Query builder
 
+Magic: Pendency, Bugs
+
 ## Himanshu
 
 Magic: 718 Column sorting - Done => to be reviewed
@@ -40,6 +42,9 @@ Flash: 690 Data export => expecting work from Rohit
 ## Inhamul
 
 HB: Optimising BSC module.
+
 HB: Look into BSC bugs (+ some changes requested - HBWFM-597)
+
 HB: Discuss on Query Builder setup.
+
 Magic: Assist on any bug fixes if required.
