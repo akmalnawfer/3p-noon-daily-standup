@@ -37,4 +37,9 @@ Magic: 718 Column sorting - Done => to be reviewed
 
 Flash: 690 Data export => expecting work from Rohit
 
-## Inham
+## Inhamul
+
+HB: Optimising BSC module.
+HB: Look into BSC bugs (+ some changes requested - HBWFM-597)
+HB: Discuss on Query Builder setup.
+Magic: Assist on any bug fixes if required.
