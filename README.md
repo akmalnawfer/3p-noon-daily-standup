@@ -1,37 +1,40 @@
 # 3P Daily Updates
 
-01 July 2022
+04 July 2022
 
 ## Gurpreet
-HB:Query Builder US walk through, Issues => Get rid of ESlint errors, No console errors
+
+HB:Get rid of ESlint errors, No console errors => Contd.
 
 ## Kuldeep
-HB: UI Optimization PO Module generalizing components, Get arbitary values, expecting PR
+
+HB: Code Optmization completed => Open for tasks
 
 ## Puneet
-Flash: Bugs KT Session (Chandrama) => Connect with Chandrama
+
 
 ## Chandrama
-Flash:  Fix project compilation error => Review Code, Go thorugh doc, Type Fixes
-Magic: 
+
+-- Medical emergency
 
 ## Praveen
-Flash: setup flash => Go through code
-Magic: 
+
+Flash: Open for tasks => Improve the UI code (Globalisation of CSS, Responsiveness) - align with Inhamul 
+
+Magic:
 
 ## MD Arif
+
 Waiting for tasks
 
 ## Akmal
-Magic: Pendency related issues, attachment download bug
 
-HB: Reasearch on query builder (get help from Gurpreet & Inham)
-
-## Inham
-Magic: waiting for QC feedback
-HB: => react query R&D => Query builder & BSC 'discussion'  
-Flash: Optimisation 
+HB: Reasearch on query builder => done, Discuss API schema + Rohit + Ankit, start work on Query builder
 
 ## Himanshu
-Magic:  Knockdown remaining bugs (related to filter) 963 => waiting for tasks
 
+Magic: 718 Column sorting - Done => to be reviewed
+
+Flash: 690 Data export => expecting work from Rohit
+
+## Inham
