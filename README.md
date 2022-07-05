@@ -30,8 +30,6 @@ Waiting for tasks
 
 Magic: Waiting for QC feedback On pendency
 
-Magic: Pendency, Bugs
-
 ## Himanshu
 
 Magic: 718 Column sorting - Done => to be reviewed
