@@ -1,21 +1,20 @@
 # 3P Daily Updates
 
-04 July 2022
+05 July 2022
 
 ## Gurpreet
 
-HB:Get rid of ESlint errors, No console errors => Contd.
+HB: Console error, get rid of ESlint warnings
 
 ## Kuldeep
 
-HB: Code Optmization completed => Open for tasks
+HB: Use specific classes instead of overriding ant-library classes
 
 ## Puneet
 
-
 ## Chandrama
 
--- Medical emergency
+Flash: Review flash code, Bug 691
 
 ## Praveen
 
@@ -29,12 +28,13 @@ Waiting for tasks
 
 ## Akmal
 
-HB: Reasearch on query builder => done, Discuss API schema + Rohit + Ankit, start work on Query builder
+Magic: Waiting for QC feedback On pendency
 
 ## Himanshu
 
 Magic: 718 Column sorting - Done => to be reviewed
 
-Flash: 690 Data export => expecting work from Rohit
+Flash: 690 Data export, discuss with Rohit regarding export API
 
 ## Inham
+Magic: waiting for QC feedback, 983
