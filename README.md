@@ -1,40 +1,30 @@
 # 3P Daily Updates
-
-05 July 2022
+06 July 2022
 
 ## Gurpreet
-
-HB: Console error, get rid of ESlint warnings
+HB: ESlint warnings => Open for tasks (check with Akmal)
 
 ## Kuldeep
-
-HB: Use specific classes instead of overriding ant-library classes
-
-## Puneet
+HB: Code optimisations (ant class optimisation) => Open for tasks (check with Akmal)
 
 ## Chandrama
-
-Flash: Review flash code, Bug 691
+Flash: Bug 691 () => Verify Bug 691 and commit (check with Absar on any tasks for Magic/Flash)
+Magic: N/A
 
 ## Praveen
-
-Flash: Open for tasks => Improve the UI code (Globalisation of CSS, Responsiveness) - align with Inhamul 
-
-Magic:
+Flash: Improve the UI code (Globalisation of CSS, Responsiveness) => Continuing on the same (class name optimisation, home module optimisation) 
+Magic: N/A
 
 ## MD Arif
-
 Waiting for tasks
 
-## Akmal
-
-Magic: Waiting for QC feedback On pendency
-
 ## Himanshu
+Magic: N/A
+Flash: 690 Data export => Continuing on the same (facing a blocker, review from Rohit)
 
-Magic: 718 Column sorting - Done => to be reviewed
+## Akmal
+Magic: Waiting for feedback on QB (looking into Instant in the meantime)
 
-Flash: 690 Data export, discuss with Rohit regarding export API
-
-## Inham
-Magic: waiting for QC feedback, 983
+## Inhamul
+Magic: Waiting for QC feedback on Magic (Hemlata) for PRD
+HB: Waiting for QC for BSC Module & push bug fixes
