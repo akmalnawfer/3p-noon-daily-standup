@@ -1,30 +1,28 @@
 # 3P Daily Updates
-06 July 2022
+07 July 2022
 
 ## Gurpreet
-HB: ESlint warnings => Open for tasks (check with Akmal)
+HB: Open for tasks (check with Pratik/Rohit)
 
 ## Kuldeep
-HB: Code optimisations (ant class optimisation) => Open for tasks (check with Akmal)
+HB: Open for tasks (check with Pratik/Rohit) => UI issue on BSC Module (About icon missing)
 
 ## Chandrama
-Flash: Bug 691 () => Verify Bug 691 and commit (check with Absar on any tasks for Magic/Flash)
-Magic: N/A
+Flash: Bug FLWM-691 fixed => Open for tasks (check on Magic/Flash)
+Magic: Open for tasks (check on Magic/Flash)
 
 ## Praveen
-Flash: Improve the UI code (Globalisation of CSS, Responsiveness) => Continuing on the same (class name optimisation, home module optimisation) 
-Magic: N/A
-
-## MD Arif
-Waiting for tasks
+Flash: Continuing on class name optimisation, home module optimisation => Reviewing responsiveness 
+Magic: Open for tasks (check on Magic backlog bugs)
 
 ## Himanshu
-Magic: N/A
-Flash: 690 Data export => Continuing on the same (facing a blocker, review from Rohit)
+Magic: Check with Rohit if any Magic bugs can be assigned
+Flash: 690 Data export => 690 pending review (check on Rohit) => Waiting for DB Dump to start on PO Mapping error optimisation
 
 ## Akmal
-Magic: Waiting for feedback on QB (looking into Instant in the meantime)
+QB: Waiting for Inhamul's QB setup
 
 ## Inhamul
-Magic: Waiting for QC feedback on Magic (Hemlata) for PRD
-HB: Waiting for QC for BSC Module & push bug fixes
+Magic: Waiting for bugs (if any will fix them ASAP)
+HB: Waiting for bugs (if any will fix them ASAP)
+QB: Started on project setup (Akmal confirm zustand implementation)
