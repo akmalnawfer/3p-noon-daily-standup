@@ -1,5 +1,5 @@
 # 3P Daily Updates
-07 July 2022
+08 July 2022
 
 ## Gurpreet
 HB: Open for tasks (check with Pratik/Rohit)
