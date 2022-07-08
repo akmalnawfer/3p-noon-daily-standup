@@ -5,7 +5,7 @@
 Helper: Waiting for access 
 
 ## Kuldeep
-InstaHelper: UI issue on BSC Module (About icon missing) => PCC-8 Insta help waiting for access: will be working on Helper popup
+InstaHelp: UI issue on BSC Module (About icon missing) => PCC-8 Insta help waiting for access: will be working on Helper popup
 
 ## Chandrama
 Magic: Bug 1059 (pendency no record found) => take over Inham's bugs
@@ -17,7 +17,7 @@ Magic: Bug 1059 (pendency no record found) => take over Inham's bugs
 InstaHelp: 
 
 ## Akmal
-Datastudio: Query list UI
+Datastudio: UI
 
 ## Inhamul
 Magic: Waiting for bugs
@@ -32,8 +32,10 @@ Magic - v3: Chandrama, Praveen => Prod release: 12/07/22
 
 Flash - v3: Chandrama, Praveen => Prod release: 12/07/22
 
-Spark - onhold: Akmal
+Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal
 
 DataStudio - Akmal, Inham
 
 InstaHelp - Gurpreet, Kuldeep
+
+Spark - onhold: Akmal
