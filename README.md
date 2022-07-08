@@ -2,27 +2,38 @@
 08 July 2022
 
 ## Gurpreet
-HB: Open for tasks (check with Pratik/Rohit)
+Helper: Waiting for access 
 
 ## Kuldeep
-HB: Open for tasks (check with Pratik/Rohit) => UI issue on BSC Module (About icon missing)
+InstaHelper: UI issue on BSC Module (About icon missing) => PCC-8 Insta help waiting for access: will be working on Helper popup
 
 ## Chandrama
-Flash: Bug FLWM-691 fixed => Open for tasks (check on Magic/Flash)
-Magic: Open for tasks (check on Magic/Flash)
+Magic: Bug 1059 (pendency no record found) => take over Inham's bugs
 
 ## Praveen
-Flash: Continuing on class name optimisation, home module optimisation => Reviewing responsiveness 
-Magic: Open for tasks (check on Magic backlog bugs)
+
 
 ## Himanshu
-Magic: Check with Rohit if any Magic bugs can be assigned
-Flash: 690 Data export => 690 pending review (check on Rohit) => Waiting for DB Dump to start on PO Mapping error optimisation
+InstaHelp: 
 
 ## Akmal
-QB: Waiting for Inhamul's QB setup
+Datastudio: Query list UI
 
 ## Inhamul
-Magic: Waiting for bugs (if any will fix them ASAP)
-HB: Waiting for bugs (if any will fix them ASAP)
-QB: Started on project setup (Akmal confirm zustand implementation)
+Magic: Waiting for bugs
+
+HB: Waiting for bugs
+
+DataStudio: UI
+
+
+### PL Ongoing Projects
+Magic - v3: Chandrama, Praveen => Prod release: 12/07/22
+
+Flash - v3: Chandrama, Praveen => Prod release: 12/07/22
+
+Spark - onhold: Akmal
+
+DataStudio - Akmal, Inham
+
+InstaHelp - Gurpreet, Kuldeep
