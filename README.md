@@ -1,41 +1,41 @@
 # 3P Daily Updates
-08 July 2022
+11 July 2022
 
 ## Gurpreet
-Helper: Waiting for access 
+InstaHelp: Helper module, Plugin research
 
 ## Kuldeep
-InstaHelp: UI issue on BSC Module (About icon missing) => PCC-8 Insta help waiting for access: will be working on Helper popup
+InstaHelp: Video modals
 
 ## Chandrama
-Magic: Bug 1059 (pendency no record found) => take over Inham's bugs
+
 
 ## Praveen
-
+Magic: Add/Edit user, UI changes => open for tasks (Connect with Chandrama/Inham)
 
 ## Himanshu
-InstaHelp: 
+InstaHelp: DB Schema => Plan on APIs to be exposed, Connect with Ankit regarding DB schema
 
 ## Akmal
-Datastudio: UI
+ON CALL
+
+HB: Review PRs
 
 ## Inhamul
-Magic: Waiting for bugs
+ON CALL
+Magic: Check PRs
 
-HB: Waiting for bugs
-
-DataStudio: UI
-
+HB: work on BSC bugs
 
 ### PL Ongoing Projects
 Magic - v3: Chandrama, Praveen => Prod release: 12/07/22
 
 Flash - v3: Chandrama, Praveen => Prod release: 12/07/22
 
-Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal
-
 DataStudio - Akmal, Inham
 
-InstaHelp - Gurpreet, Kuldeep
+Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => Release BSC on staging 14/07/2022
+
+InstaHelp - Gurpreet, Kuldeep 
 
 Spark - onhold: Akmal
