@@ -1,31 +1,37 @@
 # 3P Daily Updates
-11 July 2022
+12 July 2022
 
 ## Gurpreet
-InstaHelp: Helper module, Plugin research
+InstaHelp: Helper module, Plugin research => Contd.
 
 ## Kuldeep
-InstaHelp: Video modals
+InstaHelp: Video modals => PCC 11: Adminpanel record list UI contd.
 
 ## Chandrama
+Flash: Type fixes
 
-
+Magic: Bug:1067 Warehouse code validation Type, Bug:1002 No user found fixes => Eclerx-pendecy-bugfix
 ## Praveen
-Magic: Add/Edit user, UI changes => open for tasks (Connect with Chandrama/Inham)
+Magic: Add/Edit user, UI changes => Pushed changes to eclerx-bugfixes, waiting for review, work on UI responsiveness (991px)
 
 ## Himanshu
-InstaHelp: DB Schema => Plan on APIs to be exposed, Connect with Ankit regarding DB schema
+InstaHelp: Plan on APIs to be exposed, Connect with Ankit regarding DB schema => Discuss with Ankit on Usermanagement
 
 ## Akmal
-ON CALL
+Datastudio: Listing, Query builder Manage, Output screen
 
 HB: Review PRs
 
+** open for Magic/Flash Changes, reviews
+
 ## Inhamul
-ON CALL
 Magic: Check PRs
 
-HB: work on BSC bugs
+HB: work on BSC bugs => UI bugs
+
+Flash: Help Chandrama on type fixes
+
+Magic: Open for any reviews/changes
 
 ### PL Ongoing Projects
 Magic - v3: Chandrama, Praveen => Prod release: 12/07/22
