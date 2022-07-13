@@ -1,28 +1,30 @@
 # 3P Daily Updates
-12 July 2022
+13 July 2022
 
 ## Gurpreet
-InstaHelp: Helper module, Plugin research => Contd.
+InstaHelp: Helper module, Plugin research => Wrap the context on an NPM package, Need to create a repo from noon organisation acc.
 
 ## Kuldeep
-InstaHelp: Video modals => PCC 11: Adminpanel record list UI contd.
+InstaHelp: PCC 11: Adminpanel record list UI => Contd.
 
 ## Chandrama
-Flash: Type fixes
+Flash: Type fixes => needs a walkthrough on what has to be done. ()
 
-Magic: Bug:1067 Warehouse code validation Type, Bug:1002 No user found fixes => Eclerx-pendecy-bugfix
+Magic: Helped Praveen with INL
 ## Praveen
-Magic: Add/Edit user, UI changes => Pushed changes to eclerx-bugfixes, waiting for review, work on UI responsiveness (991px)
+Magic: INL Module, moved css to page level (Styled component), camelCase to kebab-case => Connect with Antony for new changes on INL module
 
 ## Himanshu
-InstaHelp: Plan on APIs to be exposed, Connect with Ankit regarding DB schema => Discuss with Ankit on Usermanagement
+InstaHelp: 
+
+Flash: ASN PO Mapping validations
 
 ## Akmal
-Datastudio: Listing, Query builder Manage, Output screen
+Datastudio: Query builder Manage, Output screen => Contd.
 
 HB: Review PRs
 
-** open for Magic/Flash Changes, reviews
+Flash: Connect with Chandrama on Typefixes
 
 ## Inhamul
 Magic: Check PRs
