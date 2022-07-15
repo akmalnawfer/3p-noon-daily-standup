@@ -1,47 +1,45 @@
 # 3P Daily Updates
-14 July 2022
+15 July 2022
 
 ## Gurpreet
-InstaHelp: Wrap the context on an NPM package, Need to create a repo from noon organisation acc. => Looking into video plugin (R&D)/Akmal & Me connect with Gurpreet (latter part) for clarification
+InstaHelp: 
 
 ## Kuldeep
-InstaHelp: PCC 11: Adminpanel record list UI => Contd.
+InstaHelp:HB remove favorite icons, Record list on admin panel => Video modals (Configure Video player - connect with Gurpreet): suggestion use native
 
 ## Chandrama
-Flash: Type fixes => needs a walkthrough on what has to be done. ()
+Flash: Type fixes BL list, layout, header => BL Create, Bl Details & Common fns Type Fixes 
 
-Magic: Helped Praveen with INL
 ## Praveen
-Magic: Connect with Antony for new changes on INL module (global to styled conversion + class name optimisations) => Reviewing code for Magic (and connect with Inhamul)
+Magic: Reponsivness => contd., UI bugs on placeholders (check for pending UI bugs), Check build against figma (P3)
 
 ## Himanshu
 InstaHelp: Not prioritizing now
 
-Flash: ASN PO Mapping validations => Continuing on FLWFM: 693
+Flash: FLWFM: 693, 690  => Connect with Rohit
 
 ## Akmal
-Datastudio: Query builder Manage, Output screen => Completing Manage Query & Completing Output Query
+QueryEngine: Query list changes & manage query changes, connect with Rohit regarding Query list changes
 
-HB: Review PRs
 
-Flash: Connect with Chandrama on Typefixes (working on this)
+Flash: Review PR for type fixes
 
 ## Inhamul
-Magic: Check PRs (Praveen/Chandrama) => Connect with Praveen on responsiveness fixes done previously
+Magic: Check PRs (Praveen/Chandrama)
 
-HB/BSC: Waiting on BSC filter API optimsations
+HB: BSC Bug fixes,BSC optimisation Dev testing => BSC Filter API optimisations, Connect with Sajaad & Antony.
 
-Flash: Help Chandrama on type fixes (Contd.)
+Flash: Help Chandrama on type fixes
 
 ### PL Ongoing Projects
-Magic - v3: Chandrama, Praveen => Prod release: 12/07/22 (Done!)
+Magic - v3: Chandrama, Praveen => Prod release: 12/07/22 (Done!) 
 
 Flash - v3: Chandrama, Praveen => Prod release: 12/07/22 (Done!)
 
-DataStudio - Akmal, Inham
+QueryEngine - Akmal, Inham => waiting for API + UI Implementation
 
 Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => Release BSC on staging 14/07/2022 (Postponed until further notice!)
 
-InstaHelp - Gurpreet, Kuldeep
+InstaHelp - Gurpreet, Kuldeep => R&D + UI Implementation
 
 Spark - onhold: Akmal
