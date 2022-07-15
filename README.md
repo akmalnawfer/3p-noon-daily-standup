@@ -32,9 +32,9 @@ HB: BSC Bug fixes,BSC optimisation Dev testing => BSC Filter API optimisations, 
 Flash: Help Chandrama on type fixes
 
 ### PL Ongoing Projects
-Magic - v3: Chandrama, Praveen => Prod release: 12/07/22 (Done!) 
+Magic - v3: Chandrama, Praveen, Inham => Optimisations 
 
-Flash - v3: Chandrama, Praveen => Prod release: 12/07/22 (Done!)
+Flash - v3: Chandrama, Praveen => Optimisations
 
 QueryEngine - Akmal, Inham => waiting for API + UI Implementation
 
