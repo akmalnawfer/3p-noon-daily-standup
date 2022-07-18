@@ -1,35 +1,42 @@
 # 3P Daily Updates
-15 July 2022
+18 July 2022
 
 ## Gurpreet
-InstaHelp: 
+InstaHelp: Video player Research => Open to tasks
 
 ## Kuldeep
-InstaHelp:HB remove favorite icons, Record list on admin panel => Video modals (Configure Video player - connect with Gurpreet): suggestion use native
+InstaHelp: Open to tasks
+
+HB: Work on bugs * 2 raised by Kamakshi (Breadcrumbs)
 
 ## Chandrama
-Flash: Type fixes BL list, layout, header => BL Create, Bl Details & Common fns Type Fixes 
+Flash: Type Fixes => Created nw branch (waiting to be reviewed)
+
+Magic: Bugs * 3 918,919,920 (Ticket details)
 
 ## Praveen
-Magic: Reponsivness => contd., UI bugs on placeholders (check for pending UI bugs), Check build against figma (P3)
+Magic: New user stories walkthrough (backlog, Sprint 15)
 
 ## Himanshu
-InstaHelp: Not prioritizing now
+InstaHelp:
 
-Flash: FLWFM: 693, 690  => Connect with Rohit
+Flash:
+
+Magic:  Column sorting, Sprint 15 Bugs * 7 (3 Completed)
 
 ## Akmal
-QueryEngine: Query list changes & manage query changes, connect with Rohit regarding Query list changes
-
+QueryEngine: Query list changes & manage query changes, connect with Rohit regarding Query list changes => Contd.
 
 Flash: Review PR for type fixes
 
+HB: BSC bugs fixes review
+
 ## Inhamul
-Magic: Check PRs (Praveen/Chandrama)
+Magic: Check PRs (Praveen/Chandrama) => push staging release
 
-HB: BSC Bug fixes,BSC optimisation Dev testing => BSC Filter API optimisations, Connect with Sajaad & Antony.
+HB: BSC Filter API optimisations, Connect with Sajaad & Antony => Contd.
 
-Flash: Help Chandrama on type fixes
+Flash: connect with Chandrama regarding Typefixes
 
 ### PL Ongoing Projects
 Magic - v3: Chandrama, Praveen, Inham => Optimisations 
@@ -38,7 +45,7 @@ Flash - v3: Chandrama, Praveen => Optimisations
 
 QueryEngine - Akmal, Inham => waiting for API + UI Implementation
 
-Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => Release BSC on staging 14/07/2022 (Postponed until further notice!)
+Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => Release BSC on PROD 19/07/2022
 
 InstaHelp - Gurpreet, Kuldeep => R&D + UI Implementation
 
