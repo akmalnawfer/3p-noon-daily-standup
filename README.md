@@ -1,53 +1,56 @@
 # 3P Daily Updates
-19 July 2022
+25 July 2022
 
 ## Gurpreet
-InstaHelp: HTML5 video player (draggable) => Modal on button click + Context implementation for plugin dev.
+InstaHelp: Research on Widget implementation => discussion & walkthrough on COM widget implementation w/ Akmal
 
 ## Kuldeep
 InstaHelp: Open to tasks => Wating for repo access + working with Gurpreet
 
-HB: Work on bugs * 2 raised by Kamakshi (Breadcrumbs)
+HB: Sales performance dashboard UI => contd (306)
 
 ## Chandrama
-Flash: Created new branch (waiting to be reviewed)
 
-Magic: Bugs * 3 [918,919,920] (Ticket details) => Reviewing US from backlog ()
+Magic: Sprint 15 990, Resolve bugs (1055, 1056), 1069 (pendency) => backlog (787, 566, 1069)
 
 ## Praveen
-Magic: New user stories walkthrough (backlog, Sprint 15) => Reviewing US from backlog 
+Magic: Connect w/ Inham regarding 990 (Ticket enhancements) => backlog tickets/bugs 321, 322, 437, 936  
 
-Flash: Review PR code 
+Flash: Review PR code W/ Inham
 
 ## Himanshu
 InstaHelp:
 
 Flash:
 
-Magic:  Column sorting, Sprint 15 Bugs * 7 (3 Completed) => Working on API bugs assigned by Rohit
+Magic:  working on API bugs/CRs
+
+HB: waiting for Repo access BE.
 
 ## Akmal
-QueryEngine: Query list changes & manage query changes, connect with Rohit regarding Query list changes => Contd.
+QueryEngine: CRUD OPs screens
 
-Flash: Review PR for type fixes
+Flash:
 
-HB: BSC bugs fixes review
+HB: 
+
+InstaHelp: Connect with successive, Inham & Sajaad.
 
 ## Inhamul
-Magic: Check PRs (Praveen/Chandrama) => STG release done
+Magic: Connect W/ Anthony + Chandrama + Praveen 1069, 990 , Review Praveen's PR
 
-HB: BSC Filter API optimisations, Connect with Sajaad & Antony => Done with API/UI optimisations (working on some suggestions from Sajaad)
+HB: Connect W/ Sajaad BSC & sales performance
 
-Flash: Typefixes & pending PR and review with Praveen
+Flash: Go through PRs
 
 ### PL Ongoing Projects
-Magic - v3: Chandrama, Praveen, Inham => Optimisations 
+Magic - v3: Chandrama, Praveen, Inham => Improvements, Bug fixes, Sprint 15 
 
 Flash - v3: Chandrama, Praveen => Optimisations
 
-QueryEngine - Akmal, Inham => waiting for API + UI Implementation
+QueryEngine - Akmal, Inham => waiting for API + New UI
 
-Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => Release BSC on PROD 19/07/2022
+Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => Pending release BSC PROD, Sales dashboard
 
 InstaHelp - Gurpreet, Kuldeep => R&D + UI Implementation
 
