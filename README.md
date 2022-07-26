@@ -1,45 +1,46 @@
 # 3P Daily Updates
-25 July 2022
+26 July 2022
 
 ## Gurpreet
 InstaHelp: Research on Widget implementation => discussion & walkthrough on COM widget implementation w/ Akmal
 
 ## Kuldeep
-InstaHelp: Open to tasks => Wating for repo access + working with Gurpreet
+InstaHelp: Wating for repo access + working with Gurpreet => paused until confirmation from Tech team
 
-HB: Sales performance dashboard UI => contd (306)
+HB: Sales performance dashboard UI => [306] Sales Perfromance Dashboard (EOD)
 
 ## Chandrama
+Flash: Type fixes optimisations
 
-Magic: Sprint 15 990, Resolve bugs (1055, 1056), 1069 (pendency) => backlog (787, 566, 1069)
+Magic: Sprint 15 990 (PO History) => Waiting for API
 
 ## Praveen
-Magic: Connect w/ Inham regarding 990 (Ticket enhancements) => backlog tickets/bugs 321, 322, 437, 936  
+Magic: 990 completed (popup) => working on backlog suggestions (UI related) + Magic filter code review pending (Inhamul)
 
-Flash: Review PR code W/ Inham
+Flash: Review PR code W/ (Inhamul)
 
 ## Himanshu
-InstaHelp:
+InstaHelp: N/A
 
-Flash:
+Flash: N/A
 
-Magic:  working on API bugs/CRs
+Magic: working on API bugs/CRs => Working on 990 (PO History) (if possible share the API route & filter query params to get a headstart for 3P)
 
-HB: waiting for Repo access BE.
+HB: waiting for Repo access BE => Share the access ticket with Pratik to expedite it 
 
 ## Akmal
-QueryEngine: CRUD OPs screens
+QueryEngine: CRUD OPs screens => Completed
 
-Flash:
+Flash: Reviewing Type fixes
 
-HB: 
+HB: Plan with Himanshu on Sales Performance Dashboard
 
-InstaHelp: Connect with successive, Inham & Sajaad.
+InstaHelp: Check Com code
 
 ## Inhamul
-Magic: Connect W/ Anthony + Chandrama + Praveen 1069, 990 , Review Praveen's PR
+Magic: Done 1069 (testing) => Will do a STG release by EOD 
 
-HB: Connect W/ Sajaad BSC & sales performance
+HB: Will connect with Kuldeep aqfter Sales Performance [306] is done to review UI + Plan with Himanshu on Sales Performance Dashboard
 
 Flash: Go through PRs
 
