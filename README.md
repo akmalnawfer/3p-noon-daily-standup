@@ -1,37 +1,37 @@
 # 3P Daily Updates
-26 July 2022
+27 July 2022
 
 ## Gurpreet
-InstaHelp: Research on Widget implementation => discussion & walkthrough on COM widget implementation w/ Akmal
+HB: Review completed UI
 
 ## Kuldeep
-InstaHelp: Wating for repo access + working with Gurpreet => paused until confirmation from Tech team
-
-HB: Sales performance dashboard UI => [306] Sales Perfromance Dashboard (EOD)
+HB: UIs for Sales dashboard => Contd. Review UI on staging.
 
 ## Chandrama
-Flash: Type fixes optimisations
+Flash: Type fixes optimisations => 
 
-Magic: Sprint 15 990 (PO History) => Waiting for API
+Magic: Sprint 15 990 (PO History) => 990 API integration (PO History)
 
 ## Praveen
-Magic: 990 completed (popup) => working on backlog suggestions (UI related) + Magic filter code review pending (Inhamul)
+Magic: 990 completed (popup)mobile responsive => Backlog UI suggestions 893, 787, 437, 976
 
-Flash: Review PR code W/ (Inhamul)
+Flash: Review PR code W/ (Akmal)
 
 ## Himanshu
 InstaHelp: N/A
 
 Flash: N/A
 
-Magic: working on API bugs/CRs => Working on 990 (PO History) (if possible share the API route & filter query params to get a headstart for 3P)
+Magic: 990 API sample response provided to FE => Blocker on migrating tables
 
-HB: waiting for Repo access BE => Share the access ticket with Pratik to expedite it 
+HB:  waiting for Repo access BE, go through the code with the zip file shared, connect with Ankit on setting up the DB, R&D caching API response.
 
 ## Akmal
 QueryEngine: CRUD OPs screens => Completed
 
-Flash: Reviewing Type fixes
+Flash: Reviewing PRs
+
+Magic: Review Prs
 
 HB: Plan with Himanshu on Sales Performance Dashboard
 
