@@ -38,11 +38,11 @@ HB: Plan with Himanshu on Sales Performance Dashboard
 InstaHelp: Check Com code
 
 ## Inhamul
-Magic: Done 1069 (testing) => Will do a STG release by EOD 
+Magic: STG release done for [1069,1081,1089] => Reviewing [1075] and take up any other US/busg today
 
-HB: Will connect with Kuldeep aqfter Sales Performance [306] is done to review UI + Plan with Himanshu on Sales Performance Dashboard
+HB: Check with Himanshu + BE devs for BSC PRD API issue
 
-Flash: Go through PRs
+Flash: N/A
 
 ### PL Ongoing Projects
 Magic - v3: Chandrama, Praveen, Inham => Improvements, Bug fixes, Sprint 15 
