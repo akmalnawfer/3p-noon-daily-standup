@@ -38,7 +38,7 @@ HB: Plan with Himanshu on Sales Performance Dashboard
 InstaHelp: Check Com code
 
 ## Inhamul
-Magic: STG release done for [1069,1081,1089] => Reviewing [1075] and take up any other US/busg today
+Magic: STG release done for [1069,1081,1089] => Reviewing [1075] and take up any other US/bugs today
 
 HB: Check with Himanshu + BE devs for BSC PRD API issue
 
