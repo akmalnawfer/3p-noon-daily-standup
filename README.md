@@ -1,5 +1,5 @@
 # 3P Daily Updates
-27 July 2022
+28 July 2022
 
 ## Gurpreet
 HB: Review completed UI
@@ -8,23 +8,23 @@ HB: Review completed UI
 HB: UIs for Sales dashboard => Contd. Review UI on staging.
 
 ## Chandrama
-Flash: Type fixes optimisations => 
+Flash: Type fixes optimisations => N/A
 
-Magic: Sprint 15 990 (PO History) => 990 API integration (PO History)
+Magic: 990 API integration (PO History) => API done (Integration is being done), search pending
 
 ## Praveen
-Magic: 990 completed (popup)mobile responsive => Backlog UI suggestions 893, 787, 437, 976
+Magic: Backlog UI suggestions [893,787,437,976] => Continuing on same + Review INL US 
 
-Flash: Review PR code W/ (Akmal)
+Flash: Review PR code W/ (Akmal) => Review from Akmal pending 
 
 ## Himanshu
 InstaHelp: N/A
 
 Flash: N/A
 
-Magic: 990 API sample response provided to FE => Blocker on migrating tables
+Magic: 990 API done => N/A
 
-HB:  waiting for Repo access BE, go through the code with the zip file shared, connect with Ankit on setting up the DB, R&D caching API response.
+HB: Sales DB schema shared by Ankit, working on API
 
 ## Akmal
 QueryEngine: CRUD OPs screens => Completed
@@ -38,9 +38,9 @@ HB: Plan with Himanshu on Sales Performance Dashboard
 InstaHelp: Check Com code
 
 ## Inhamul
-Magic: STG release done for [1069,1081,1089] => Reviewing [1075] and take up any other US/bugs today
+Magic: STG release done for [1075,1094,1095] => Assist 3P + review code for [990] and take up any pending bugs.
 
-HB: Check with Himanshu + BE devs for BSC PRD API issue
+HB: Check with BE devs for BSC PRD API issue
 
 Flash: N/A
 
