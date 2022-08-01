@@ -1,47 +1,45 @@
 # 3P Daily Updates
-29 July 2022
+01 Aug 2022
 
 ## Gurpreet
-HB: setup react queries => Business dashboard load tables on scroll 
+HB: Business dashboard Lazyloading => API discussion pending, Implement react query with dummy data, Business dashboard chartjs type error.
 
 ## Kuldeep
-HB: Dashboard UI => Implement the charts using Chart.js
+HB: Implement the charts using Chart.js => Idle.
 
 ## Chandrama
-Flash: Type fixes optimisations => N/A
 
-Magic: API done (Integration is being done), search pending, pendency bugs => Backlog tickets, Typefixes, lint issues 
+Magic: 935 comments, Pendency bugs, 920 timestamp
 
 ## Praveen
-Magic: Backlog UI suggestions [893,787,437,976] => Continuing on same + Review INL US 
+Magic: 
 
-Flash: Review PR code W/ (Akmal) => Review from Akmal pending 
+Flash: 
 
 ## Himanshu
 InstaHelp: N/A
 
 Flash: N/A
 
-Magic: 990 API done => N/A
+Magic: Timestamp issue (date => date/time)
 
-HB: Sales DB schema shared by Ankit, working on API => R&D on data partitioning for sales dashboard, BSC Cron job PROD (data sync)
+HB: R&D on data partitioning for sales dashboard, BSC Cron job PROD (data sync) => Business Dashboard API discussion with Ankit
 
 ## Akmal
 InstaHelp: Check Com code
 
-QueryEngine: CRUD OPs screens => Completed
+HB: Plan with Himanshu on Sales Performance Dashboard
 
-Flash: Styles refactor
+QueryEngine: 
 
-Magic: Review Prs
+Flash: 
 
-HB: Plan with Himanshu on Sales Performance Dashboard, Issue on BSC prod
-
+Magic: 
 
 ## Inhamul
-Magic: 990 Fixed and pushed to staging => Pending PRs, Check backlogs, 918, 919, 920 (Timestamp )
+Magic: waiting for Timestamp changes, review filter UI, Magic release
 
-HB: Check with BE devs for BSC PRD API issue
+HB: Plan with Himanshu on Sales Performance Dashboard
 
 Flash: N/A
 
