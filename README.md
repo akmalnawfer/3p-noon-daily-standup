@@ -1,18 +1,18 @@
 # 3P Daily Updates
-01 Aug 2022
+02 Aug 2022
 
 ## Gurpreet
-HB: Business dashboard Lazyloading => API discussion pending, Implement react query with dummy data, Business dashboard chartjs type error.
+HB: API discussion pending, implement react query with dummy data, business dashboard chartjs type error => 
 
 ## Kuldeep
-HB: Implement the charts using Chart.js => Idle.
+HB: UI enhancements/fixes suggested by Akmal => Idle (Take a look at backlog US and see if anything can be take up)
 
 ## Chandrama
 
-Magic: 935 comments, Pendency bugs, 920 timestamp
+Magic: Worked on [919,920] => Idle (check with Rohit and get back)
 
 ## Praveen
-Magic: 
+Magic: Integrating [893,787,437,976], mostly related to INL => Idle (check with Rohit and get back)
 
 Flash: 
 
@@ -21,14 +21,14 @@ InstaHelp: N/A
 
 Flash: N/A
 
-Magic: Timestamp issue (date => date/time)
+Magic: Timestamp issue (date => date/time) =? N/A
 
-HB: R&D on data partitioning for sales dashboard, BSC Cron job PROD (data sync) => Business Dashboard API discussion with Ankit
+HB: Business Dashboard API discussion with Ankit => FInalize Business/Sales DB API with Ankit/Rohit
 
 ## Akmal
-InstaHelp: Check Com code
+InstaHelp: Check COM code
 
-HB: Plan with Himanshu on Sales Performance Dashboard
+HB: Review Sales Performance Dashboard code
 
 QueryEngine: 
 
@@ -37,9 +37,9 @@ Flash:
 Magic: 
 
 ## Inhamul
-Magic: waiting for Timestamp changes, review filter UI, Magic release
+Magic: STG release done with [918,919,920,935] + optim. to [900] => Review backlog tickets + any pending bugs from sprint
 
-HB: Plan with Himanshu on Sales Performance Dashboard
+HB: Check with Ankit/Rohit on finalized structure of Sales DB
 
 Flash: N/A
 
