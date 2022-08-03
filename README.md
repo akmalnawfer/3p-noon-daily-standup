@@ -1,20 +1,20 @@
 # 3P Daily Updates
-02 Aug 2022
+03 Aug 2022
 
 ## Gurpreet
-HB: API discussion pending, implement react query with dummy data, business dashboard chartjs type error => 
+HB: API discussion pending, implement react query with dummy data, business dashboard chartjs type error => Implement Filters with mock data, Dashboard table APIs
 
 ## Kuldeep
-HB: UI enhancements/fixes suggested by Akmal => Idle (Take a look at backlog US and see if anything can be take up)
+HB:Idle (Take a look at backlog US and see if anything can be take up) => UI enhancements, work with Gurpreet implementing APIs
 
 ## Chandrama
 
-Magic: Worked on [919,920] => Idle (check with Rohit and get back)
+Magic: Continue on INL module
 
 ## Praveen
 Magic: Integrating [893,787,437,976], mostly related to INL => Idle (check with Rohit and get back)
 
-Flash: 
+Flash: Filter CSS changes, Global style changes => idle
 
 ## Himanshu
 InstaHelp: N/A
@@ -23,21 +23,21 @@ Flash: N/A
 
 Magic: Timestamp issue (date => date/time) =? N/A
 
-HB: Business Dashboard API discussion with Ankit => FInalize Business/Sales DB API with Ankit/Rohit
+HB: Finalize Business/Sales DB API with Ankit/Rohit => Provide APIs for BSC dashboard
 
 ## Akmal
 InstaHelp: Check COM code
 
 HB: Review Sales Performance Dashboard code
 
-QueryEngine: 
+QueryEngine: waiting for APIs
 
 Flash: 
 
 Magic: 
 
 ## Inhamul
-Magic: STG release done with [918,919,920,935] + optim. to [900] => Review backlog tickets + any pending bugs from sprint
+Magic: Review backlog tickets + any pending bugs from sprint => review INL module changes
 
 HB: Check with Ankit/Rohit on finalized structure of Sales DB
 
