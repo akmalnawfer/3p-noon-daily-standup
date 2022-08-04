@@ -1,48 +1,52 @@
 # 3P Daily Updates
-03 Aug 2022
+04th Aug 2022
 
 ## Gurpreet
-HB: API discussion pending, implement react query with dummy data, business dashboard chartjs type error => Implement Filters with mock data, Dashboard table APIs
+HB: Implement Filters with mock data, Dashboard table APIs => BSC Dashboard lazyload contd.
 
 ## Kuldeep
-HB:Idle (Take a look at backlog US and see if anything can be take up) => UI enhancements, work with Gurpreet implementing APIs
+HB:UI enhancements, work with Gurpreet implementing APIs => UI bugs on dasboard, UI changes suggested by Akmal 
 
 ## Chandrama
 
-Magic: Continue on INL module
+Magic: Continue on INL module ESlint => Idle.
+
+Flash: 
 
 ## Praveen
-Magic: Integrating [893,787,437,976], mostly related to INL => Idle (check with Rohit and get back)
+Magic: Idle.
 
 Flash: Filter CSS changes, Global style changes => idle
 
 ## Himanshu
+HB: Provide APIs for BSC dashboard => Table Pagination, date range filter
+
 InstaHelp: N/A
 
 Flash: N/A
 
-Magic: Timestamp issue (date => date/time) =? N/A
+Magic: N/A
 
-HB: Finalize Business/Sales DB API with Ankit/Rohit => Provide APIs for BSC dashboard
 
 ## Akmal
-InstaHelp: Check COM code
+QueryEngine: waiting for APIs (waiting on Rohit to provide the APIs)
 
 HB: Review Sales Performance Dashboard code
 
-QueryEngine: waiting for APIs
+InstaHelp: Check COM code
 
 Flash: 
 
 Magic: 
 
 ## Inhamul
-Magic: Review backlog tickets + any pending bugs from sprint => review INL module changes
+Magic: review INL module changes => contd, resolved bugs & going through backlog issues.
 
-HB: Check with Ankit/Rohit on finalized structure of Sales DB
+QueryEngine: Start working on screens when the APIs are ready (Split work w/ Akmal)
+
+HB: N/A
 
 Flash: N/A
-
 ### PL Ongoing Projects
 Magic - v3: Chandrama, Praveen, Inham => Improvements, Bug fixes, Sprint 16 
 
