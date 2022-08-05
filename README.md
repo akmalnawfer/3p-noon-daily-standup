@@ -1,5 +1,5 @@
 # 3P Daily Updates
-04th Aug 2022
+05th Aug 2022
 
 ## Gurpreet
 HB: Implement Filters with mock data, Dashboard table APIs => BSC Dashboard lazyload contd.
@@ -9,14 +9,14 @@ HB:UI enhancements, work with Gurpreet implementing APIs => UI bugs on dasboard,
 
 ## Chandrama
 
-Magic: Continue on INL module ESlint => Idle.
+Magic: Check backlog issues, Continue on INL analysis
 
 Flash: 
 
 ## Praveen
-Magic: Idle.
+Magic: Idle
 
-Flash: Filter CSS changes, Global style changes => idle
+Flash: Idle
 
 ## Himanshu
 HB: Provide APIs for BSC dashboard => Table Pagination, date range filter
