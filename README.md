@@ -1,25 +1,25 @@
 # 3P Daily Updates
-05th Aug 2022
+08th Aug 2022
 
 ## Gurpreet
-HB: Implement Filters with mock data, Dashboard table APIs => BSC Dashboard lazyload contd.
+HB: BSC Dashboard lazyload => Code optimization (waiting for APIs)
 
 ## Kuldeep
-HB:UI enhancements, work with Gurpreet implementing APIs => UI bugs on dasboard, UI changes suggested by Akmal 
+HB:UI bugs on dasboard, UI changes suggested by Akmal => Sticky filter, sticky grand total cards, UI bugs.
 
 ## Chandrama
 
-Magic: Check backlog issues, Continue on INL analysis
+Magic: INL analysis Mytickets, All tickets. Tickets 60, 69, 945 => Cordinate w/ Inham on new tasks/Bugs 
 
-Flash: 
+Flash: N/A
 
 ## Praveen
-Magic: Idle
+Magic: Reviewed tickets on backlog => waiting for tasks
 
-Flash: Idle
+Flash: Test responsiveness, Fix any issues
 
 ## Himanshu
-HB: Provide APIs for BSC dashboard => Table Pagination, date range filter
+HB: Score card APIs => APIs for Graphs & Charts.
 
 InstaHelp: N/A
 
@@ -29,18 +29,18 @@ Magic: N/A
 
 
 ## Akmal
-QueryEngine: waiting for APIs (waiting on Rohit to provide the APIs)
+QueryEngine: Start API integration
 
-HB: Review Sales Performance Dashboard code
+HB: Review Sales Performance Dashboard code => done, waiting for new changes, Discuss with Himanshu on the charts APIs
 
-InstaHelp: Check COM code
+InstaHelp: N/A
 
-Flash: 
+Flash: N/A
 
-Magic: 
+Magic: N/A
 
 ## Inhamul
-Magic: review INL module changes => contd, resolved bugs & going through backlog issues.
+Magic: Review completed user stories for next PROD release
 
 QueryEngine: Start working on screens when the APIs are ready (Split work w/ Akmal)
 
@@ -48,13 +48,13 @@ HB: N/A
 
 Flash: N/A
 ### PL Ongoing Projects
-Magic - v3: Chandrama, Praveen, Inham => Improvements, Bug fixes, Sprint 16 
+Magic - v3: Chandrama, Praveen, Inham => Next PROD release 9th Aug 
 
-Flash - v3: Chandrama, Praveen => Optimisations + Style refactor
+Flash - v3: Chandrama, Praveen => Testing UI mobile responsiveness
 
-QueryEngine - Akmal, Inham => waiting for API + New UI
+QueryEngine - Akmal, Inham => waiting for API
 
-Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => Sales dashboard, BSC Data sync
+Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => Sales dashboard (waiting for API), BSC Data sync (CRON Job)
 
 InstaHelp - ONHOLD Gurpreet, Kuldeep => R&D + UI Implementation
 
