@@ -8,15 +8,14 @@ HB: BSC Dashboard lazyload => Code optimization (waiting for APIs)
 HB:UI bugs on dasboard, UI changes suggested by Akmal => Sticky filter, sticky grand total cards, UI bugs.
 
 ## Chandrama
-
-Magic: INL analysis Mytickets, All tickets. Tickets 60, 69, 945 => Cordinate w/ Inham on new tasks/Bugs 
+Magic: INL analysis Mytickets, All tickets. Tickets 60, 69, 945 => Cordinate w/ Inham on new tasks/Bugs (work on rebasing inl-module branch with latets changes from develop, i.e. STG)
 
 Flash: N/A
 
 ## Praveen
-Magic: Reviewed tickets on backlog => waiting for tasks
+Magic: Reviewed tickets on backlog => Look into a minor UI responsiveness issue on the ticket assignee modal
 
-Flash: Test responsiveness, Fix any issues
+Flash: Test responsiveness, Fix any issues + add responsive popover to the PO Number list & PO Vendor Name list
 
 ## Himanshu
 HB: Score card APIs => APIs for Graphs & Charts.
