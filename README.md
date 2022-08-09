@@ -1,5 +1,5 @@
 # 3P Daily Updates
-08th Aug 2022
+09th Aug 2022
 
 ## Gurpreet
 HB: BSC Dashboard lazyload => Code optimization (waiting for APIs)
@@ -8,17 +8,17 @@ HB: BSC Dashboard lazyload => Code optimization (waiting for APIs)
 HB:UI bugs on dasboard, UI changes suggested by Akmal => Sticky filter, sticky grand total cards, UI bugs.
 
 ## Chandrama
-Magic: INL analysis Mytickets, All tickets. Tickets 60, 69, 945 => Cordinate w/ Inham on new tasks/Bugs (work on rebasing inl-module branch with latets changes from develop, i.e. STG)
+Magic: Rebase working branch with develop, resolved conflicts => waiting for tasks 
 
 Flash: N/A
 
 ## Praveen
-Magic: Reviewed tickets on backlog => Look into a minor UI responsiveness issue on the ticket assignee modal
+Magic: Look into a minor UI responsiveness issue on the ticket assignee modal => review styles in INL module
 
-Flash: Test responsiveness, Fix any issues + add responsive popover to the PO Number list & PO Vendor Name list
+Flash: add responsive popover to the PO Number list & PO Vendor Name list => Popover styles
 
 ## Himanshu
-HB: Score card APIs => APIs for Graphs & Charts.
+HB: Score card APIs => APIs for Graphs & Charts. (Connect W/ Akmal & Ankit refgarding the dataschema)
 
 InstaHelp: N/A
 
@@ -28,7 +28,7 @@ Magic: N/A
 
 
 ## Akmal
-QueryEngine: Start API integration
+QueryEngine: Integrate Query list API + other APIs
 
 HB: Review Sales Performance Dashboard code => done, waiting for new changes, Discuss with Himanshu on the charts APIs
 
@@ -39,11 +39,11 @@ Flash: N/A
 Magic: N/A
 
 ## Inhamul
-Magic: Review completed user stories for next PROD release
+Magic: Check current Sprint tickets, Review new features for PROD release, Review the code & UI.
 
-QueryEngine: Start working on screens when the APIs are ready (Split work w/ Akmal)
+QueryEngine: N/A
 
-HB: N/A
+HB: connect W/ Rohit (BSC release)
 
 Flash: N/A
 ### PL Ongoing Projects
@@ -51,7 +51,7 @@ Magic - v3: Chandrama, Praveen, Inham => Next PROD release 9th Aug
 
 Flash - v3: Chandrama, Praveen => Testing UI mobile responsiveness
 
-QueryEngine - Akmal, Inham => waiting for API
+QueryEngine - Akmal, Inham => API integration
 
 Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => Sales dashboard (waiting for API), BSC Data sync (CRON Job)
 
