@@ -1,36 +1,35 @@
 # 3P Daily Updates
-10th Aug 2022
+12th Aug 2022
 
 ## Gurpreet
-HB: Rebase your working w/ BSC-dashboard
+HB: Rebase your working w/ BSC-dashboard => Idle until APIs are available (connect with Akmal)
 
 ## Kuldeep
-HB: UI fixes on dashboard (sticky header scrollbar, bsc cards edge to edge)
+HB: UI fixes on dashboard (sticky header scrollbar, bsc cards edge to edge) => N/A
 
 ## Chandrama
-Magic: INL Module filter => check CRs requested by Inham 
+Magic: check CRs requested by Inham => Prioritse on lint fixes (mid-day) 
 
 Flash: N/A
 
 ## Praveen
-Magic: Look into a minor UI responsiveness issue on the ticket assignee modal => review styles in INL module
+Magic: Review styles in INL module => N/A
 
-Flash: Popover styles => BL details page UI, Mobile responsiveness 1024px
+Flash: Mobile responsiveness 1024px => Continuing on responsive fixes + UI enhancements + check padding/spacing
 
 ## Himanshu
-HB: PR created against main => Charts & Graphs API
+HB: Charts & Graphs API (PR created against main) => Pending connect w/Akmal (output on charts)
+
+Magic: Look into the backlog tickets issued by Inhamul (if time allows)
 
 InstaHelp: N/A
 
 Flash: N/A
 
-Magic: N/A
-
-
 ## Akmal
-QueryEngine: Query list API => Querylist filter part
+QueryEngine: Querylist filter part => Waiting for API
 
-HB: Review UI & do a staging release
+HB: Review UI & do a staging release => Connect with Himanshu on Graphs/Charts output
 
 InstaHelp: N/A
 
@@ -39,13 +38,14 @@ Flash: N/A
 Magic: N/A
 
 ## Inhamul
-Magic: PROD release => Review pending backlog items
+Magic: Review pending backlog items => Waiting for Chandrama's changes + lint fixes (blocking code review)
+
+Flash: Cleanup repo contd. resole merge conflicts => Adding type defs. + minor code optimisations 
 
 QueryEngine: N/A
 
-HB: connect W/ Rohit (BSC release)
+HB: connect W/ Rohit (BSC release) => Minor text change requested by PM (working on that)
 
-Flash: Cleanup repo contd. resole merge conflicts.
 ### PL Ongoing Projects
 Magic - v3: Chandrama, Praveen, Inham => PROD release done on 9th
 
