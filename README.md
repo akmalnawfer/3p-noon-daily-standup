@@ -1,5 +1,5 @@
 # 3P Daily Updates
-12th Aug 2022
+16th Aug 2022
 
 ## Gurpreet
 HB: Rebase your working w/ BSC-dashboard => Idle until APIs are available (connect with Akmal)
@@ -8,19 +8,19 @@ HB: Rebase your working w/ BSC-dashboard => Idle until APIs are available (conne
 HB: UI fixes on dashboard (sticky header scrollbar, bsc cards edge to edge) => N/A
 
 ## Chandrama
-Magic: check CRs requested by Inham => Prioritse on lint fixes (mid-day) 
+Magic: Prioritse on lint fixes (mid-day) => Review code done, changes were suggested by Inhamul, working on that 
 
 Flash: N/A
 
 ## Praveen
-Magic: Review styles in INL module => N/A
+Magic: Review styles in INL module => Assist Chandrama on INL module fixes
 
-Flash: Mobile responsiveness 1024px => Continuing on responsive fixes + UI enhancements + check padding/spacing
+Flash: Continuing on responsive fixes + UI enhancements + check padding/spacing => Continuing on this + looking into LF/CRLF lint issue
 
 ## Himanshu
-HB: Charts & Graphs API (PR created against main) => Pending connect w/Akmal (output on charts)
+HB: Pending connect w/Akmal (output on charts) => Check with Rohit on PR status
 
-Magic: Look into the backlog tickets issued by Inhamul (if time allows)
+Magic: Look into the backlog tickets issued by Inhamul (if time allows) => Will discuss regarding backlog tickets today 
 
 InstaHelp: N/A
 
