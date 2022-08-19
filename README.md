@@ -1,35 +1,35 @@
 # 3P Daily Updates
-18th Aug 2022
+19th Aug 2022
 
 ## Gurpreet
-HB: Accessmanagement bugs => waiting for access management APIs (Group edit, group permissions list)
+HB: Waiting for access management APIs (Group edit, group permissions list) => Still waiting for APIs (Idle otherwise)
 
 ## Kuldeep
-HB: Fontsize, Access management UI refinement => Changes suggested by Akmal, Take up px to rem conversion (padding, margin)
+HB: Changes suggested by Akmal, Take up px to rem conversion (padding, margin) => Access mgmt. bugs suggested by Akmal (fixed) + convert px to rem units (access mgmt.)
 
 ## Chandrama
-Magic: INL bug fixes => Contd.
+Magic: INL bug fixes => Will be finished before EOD, then get it reviewed by Inhamul
 
 Flash: N/A
 
 ## Praveen
-Magic: Assist Chandrama on INL module fixes => Contd.
+Magic: Assist Chandrama on INL module fixes => Review INL for UI fixes
 
-Flash: PX to rem conversion
+Flash: PX to rem conversion => Contd.
 
 ## Himanshu
-Magic: 1090 Pending qty filter issue, backlog tickets (bugs) => Connect W/ Rohit for 1090, 1002 (user partner iStartwith), 1122 (due date calculation)
+Magic: Connect W/ Rohit for 1090, 1002 (user partner istartswith), 1122 (due date calculation) => Contd. on backlog tickets (look into due date on API)
 
-HB: Deprioritized, accessmanagement APIs (Connect W/ Gurpreet + Akmal)
+HB: Deprioritized, accessmanagement APIs (Connect W/ Gurpreet + Akmal) => N/A
 
 InstaHelp: N/A
 
 Flash: N/A
 
 ## Akmal
-QueryEngine: general & recent query details page
+QueryEngine: general & recent query details page => Manage query page, Query output page
 
-HB: Connect with Himanshu/Gurpreet on access management APIs => Reviewing PRs from Kuldeep
+HB: Reviewing PRs from Kuldeep => N/A
 
 Magic: Review PRs
 
@@ -38,9 +38,9 @@ InstaHelp: N/A
 Flash: N/A
 
 ## Inhamul
-HB: R&D on BSC visualization => Use mock data for charts, Connect W/ Rohit on APIs
+HB: Use mock data for charts => BSC Vis. implementation mostly done, have deployed for feedback; currently working on optimisations + some feature additions as per US
 
-Magic: Reviewing INL changes
+Magic: Reviewing INL changes => Waiting for CRs to be done to review
 
 Flash: Adding type defs. + minor code optimisations => contd. 
 
