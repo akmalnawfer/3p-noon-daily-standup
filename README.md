@@ -1,59 +1,59 @@
 # 3P Daily Updates
-19th Aug 2022
+22nd Aug 2022
 
 ## Gurpreet
-HB: Waiting for access management APIs (Group edit, group permissions list) => Still waiting for APIs (Idle otherwise)
+HB: Still waiting for APIs (Idle otherwise) => On leave
 
 ## Kuldeep
-HB: Changes suggested by Akmal, Take up px to rem conversion (padding, margin) => Access mgmt. bugs suggested by Akmal (fixed) + convert px to rem units (access mgmt.)
+HB: Access mgmt. bugs suggested by Akmal (fixed) + convert px to rem units (access mgmt.) => Contd. (margins)
 
 ## Chandrama
-Magic: INL bug fixes => Will be finished before EOD, then get it reviewed by Inhamul
+Magic: INL bug fixes => waiting for changes to be reviewed by Inham
 
 Flash: N/A
 
 ## Praveen
-Magic: Assist Chandrama on INL module fixes => Review INL for UI fixes
+Magic: INL Table headers reorder => N/A 
 
 Flash: PX to rem conversion => Contd.
 
 ## Himanshu
-Magic: Connect W/ Rohit for 1090, 1002 (user partner istartswith), 1122 (due date calculation) => Contd. on backlog tickets (look into due date on API)
+Magic: on backlog tickets (look into due date on API) => Issue on Box lvl & SKU lvl export (connect w/ Antony)
 
-HB: Deprioritized, accessmanagement APIs (Connect W/ Gurpreet + Akmal) => N/A
+HB: accessmanagement APIs (Connect W/ Rohit + Ankit)
 
 InstaHelp: N/A
 
 Flash: N/A
 
 ## Akmal
-QueryEngine: general & recent query details page => Manage query page, Query output page
+QueryEngine: Manage query page, Query output page => API Integration, connect W/ Rohit+Sajaad on recent queries flow 
 
-HB: Reviewing PRs from Kuldeep => N/A
+HB: Reviewing PRs from Kuldeep
 
-Magic: Review PRs
+Magic: N/A
 
 InstaHelp: N/A
 
 Flash: N/A
 
 ## Inhamul
-HB: Use mock data for charts => BSC Vis. implementation mostly done, have deployed for feedback; currently working on optimisations + some feature additions as per US
+HB: Refining BSC visualisation UI
 
 Magic: Reviewing INL changes => Waiting for CRs to be done to review
 
-Flash: Adding type defs. + minor code optimisations => contd. 
+Flash: N/A
 
 QueryEngine: N/A
 
 ### PL Ongoing Projects
 QueryEngine - Akmal, Inham => API integration on Querydetails pages
 
-Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => Sales dashboard (waiting for API), BSC visualisation
+Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => BSC visualisation (released to staging), UI Unit conversions, Access mgt (waiting for API), Sales dashboard (waiting for API)
 
 Magic - v3: Chandrama, Praveen, Inham => INL API Pending, Currently working on backlog tickets
 
-Flash - v3: Chandrama, Praveen, Inhamul => Code refactor & cleanup
+Flash - v3: Chandrama, Praveen, Inhamul => Type fixes, UI Unit conversions
 
 InstaHelp - ONHOLD Gurpreet, Kuldeep => R&D + UI Implementation
 
