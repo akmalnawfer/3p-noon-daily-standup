@@ -1,35 +1,35 @@
 # 3P Daily Updates
-24th Aug 2022
+25th Aug 2022
 
 ## Gurpreet
-HB: Waiting for APIs (Idle otherwise) [Check with Akmal on any pending tasks] => Changing ChartJS to Ant Charts 
+HB: working on antd charts, coordinating with kuldeep for issues, created a new branch for the same (feature-ant-charts)
 
 ## Kuldeep
-HB:  Should be completed before EDO (then get it reviewed by Akmal) => Shared PR (waiting for review by Akmal) + verifying UI bugs/working with Gurpreet on API integration (if any)
+HB: working W/ Gurpreet on Ant Chart migration
 
 ## Chandrama
-Magic: Some changes were missed, so have been re-assigned after a review => Will be reviewing the code with Inhamul
+Magic: INL module suggestions by Inham => open for tasks
 
 Flash: N/A
 
 ## Praveen
-Flash: Contd. on doing the changes on page-level (global level changes completed) => PX to REM conversion done + Looking into filter UI + TSV tooltip text
+Flash: PX to REM conversion done + Looking into filter UI + TSV tooltip text => Get the code reviewed + Open for tasks
 
 Magic: N/A
 
 ## Himanshu
 Magic: Magic export API changes done (pending review) [get Rohit to look into the Due Date + Unresolved Box Qty filter] => Clear the backlog tickets for Magic
 
-HB: Continuing on that, focusing [HBWFM-102/HBWFM-104] => Research on API code (working on ETA)
+HB: User listing filter => Contd. + work on group filter (connect W/ Akmal)
 
 InstaHelp: N/A
 
 Flash: N/A
 
 ## Akmal
-QueryEngine: Run query integration + CSV upload integration => Optimising/Refactoring Query Engine
+QueryEngine: Feedback changes => Edit query 500 error, API integration for deletion (fn is ready), code cleanup
 
-HB: Reviewing PRs from Kuldeep => Review PR from Kuldeep [PX to REM conv.] & Gurpreet
+HB: waiting for changes from Gurpreet, review access management API + integrations
 
 Magic: N/A
 
@@ -38,20 +38,20 @@ InstaHelp: N/A
 Flash: N/A
 
 ## Inhamul
-HB: Refining BSC visualisation UI => Show/hide group metrics for BSC [P1 done, P2/P3 in progress]
+HB: Visualization P1, P2 => Visualization P3, connect W/ Rohit for tooltip data, dynamic columns for tables from API 
 
-Magic: Reviewed the CRs & added comments => Review on new CRs
+Magic: connect W/ Chandrama 
 
-Flash: Review changes done by Praveen
+Flash: Review PX to REM conversion
 
 QueryEngine: N/A
 
 ### PL Ongoing Projects
-QueryEngine - Akmal, Inham => API integration on Querydetails pages
+QueryEngine - Akmal, Inham => MVP release done, working code optimization, Query admin page (My queries) CRUD operations
 
-Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => BSC visualisation (released to staging), UI Unit conversions, Access mgt (waiting for API), Sales dashboard (waiting for API)
+Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => BSC metrics grouping, UI Unit conversions, Access mgt (waiting for API), Sales dashboard (waiting for API)
 
-Magic - v3: Chandrama, Praveen, Inham => INL API Pending, Currently working on backlog tickets
+Magic - v3: Chandrama, Praveen, Inham => INL API Pending, Waiting for review (Rohit)
 
 Flash - v3: Chandrama, Praveen, Inhamul => Type fixes, UI Unit conversions
 
