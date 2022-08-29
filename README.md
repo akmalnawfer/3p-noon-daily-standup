@@ -1,26 +1,26 @@
 # 3P Daily Updates
-26th Aug 2022
+29th Aug 2022
 
 ## Gurpreet
-HB: working on antd charts => N/A (check with Akmal on any tasks)
+HB: N/A => Pending review for charct conversion (blocked on Akmal), open for tasks
 
 ## Kuldeep
-HB: working W/ Gurpreet on Ant Chart migration => Continuing on ant chart migration
+HB: Continuing on ant chart migration => PR shared for ant chart migration, looking into UI bugs [access mgmt] shared by QA
 
 ## Chandrama
-Magic: INL module suggestions by Inham => Pending review (in the meantime double check all the comments/CRs from Inhamul)
+Magic: Pending review (in the meantime double check all the comments/CRs from Inhamul) => CR review done, working on pop-confirm enable/disable INL rule
 
 Flash: N/A
 
 ## Praveen
-Flash: PX to REM conversion done => Continuing on CRs for PX to REM conversion
+Flash: Continuing on CRs for PX to REM conversion => Open for tasks (minor UI changes for pop-confirm + add new rule)
 
 Magic: N/A
 
 ## Himanshu
-Magic: Clear the backlog tickets for Magic => Export done (review pending from Rohit/Ankit)
+Magic: Export done => Backlog tickets (followup with Rohit for PR)
 
-HB: User listing filter => User listing + filter done (+ export done), focusing on group listing filter + export (and RnD for Group Access API)
+HB: User listing + filter done, focusing on group listing filter + export => Working on group access API (pending connect with Ankit)
 
 InstaHelp: N/A
 
@@ -29,7 +29,7 @@ Flash: N/A
 ## Akmal
 QueryEngine: Edit query 500 error, API integration for deletion (fn is ready), code cleanup => Waiting or API to enable/disable queries
 
-HB: Review access management API + integrations => Review ant chart migration
+HB: Review access management API + integrations => Review ant.chart migration
 
 Magic: N/A
 
@@ -38,9 +38,9 @@ InstaHelp: N/A
 Flash: N/A
 
 ## Inhamul
-HB: Visualization P3 => Show/Hide metrics for P1/P2/P3 is done, I am working on filtering the export data [connect W/ Rohit for tooltip data]
+HB: Working on filtering the export data [connect W/ Rohit for tooltip data] => Finishing up on adding filtered export, Look into implementing meta_attribute once API is available
 
-Magic: connect W/ Chandrama => Review Chandrama's INL code
+Magic: Review Chandrama's INL code (done) => Look into some pending US for current Sprint (facing some API blockers, will be checking on them today).
 
 Flash: N/A
 
