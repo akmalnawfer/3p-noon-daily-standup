@@ -27,7 +27,7 @@ InstaHelp: N/A
 Flash: N/A
 
 ## Akmal
-QueryEngine: Edit query 500 error, API integration for deletion (fn is ready), code cleanup => Waiting or API to enable/disable queries
+QueryEngine: Enable disable queries, Manage query bug in field selection
 
 HB: Review access management API + integrations => Review ant.chart migration
 
