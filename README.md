@@ -1,53 +1,53 @@
 # 3P Daily Updates
-29th Aug 2022
+30th Aug 2022
 
 ## Gurpreet
-HB: N/A => Pending review for charct conversion (blocked on Akmal), open for tasks
+HB: waiting for access mgt APIs (connect w/ Himanshu)
 
 ## Kuldeep
-HB: Continuing on ant chart migration => PR shared for ant chart migration, looking into UI bugs [access mgmt] shared by QA
+HB: waiting for tasks
 
 ## Chandrama
-Magic: Pending review (in the meantime double check all the comments/CRs from Inhamul) => CR review done, working on pop-confirm enable/disable INL rule
+Magic: INL Type fixes => open for tasks (connect W/ Inham)
 
 Flash: N/A
 
 ## Praveen
-Flash: Continuing on CRs for PX to REM conversion => Open for tasks (minor UI changes for pop-confirm + add new rule)
+Flash: minor UI changes for pop-confirm + add new rule => open for tasks
 
-Magic: N/A
+Magic: Add new font-family
 
 ## Himanshu
 Magic: Export done => Backlog tickets (followup with Rohit for PR)
 
-HB: User listing + filter done, focusing on group listing filter + export => Working on group access API (pending connect with Ankit)
+HB: Working on group access API (pending connect with Ankit) => HBWFM-104 group access APIs
 
 InstaHelp: N/A
 
 Flash: N/A
 
 ## Akmal
-QueryEngine: Enable disable queries, Manage query bug in field selection
+QueryEngine: Enable disable queries, query select fields (imitate feature like google sheet), iframe dynamic height based on user's screen
 
-HB: Review access management API + integrations => Review ant.chart migration
+HB: Review APIs for access mgt, connect W/ Himanshu, Ankit & Gurpreet
 
-Magic: N/A
+Magic: Review font change
 
 InstaHelp: N/A
 
 Flash: N/A
 
 ## Inhamul
-HB: Working on filtering the export data [connect W/ Rohit for tooltip data] => Finishing up on adding filtered export, Look into implementing meta_attribute once API is available
+HB: N/A
 
-Magic: Review Chandrama's INL code (done) => Look into some pending US for current Sprint (facing some API blockers, will be checking on them today).
+Magic: Review Chandrama's INL Type fixes
 
-Flash: N/A
+Flash: Review uinit conversion PR
 
-QueryEngine: N/A
+QueryEngine: Connect W/ Akmal
 
 ### PL Ongoing Projects
-QueryEngine - Akmal, Inham => MVP release done [IFrame implementation with HB], working code optimization, Query admin page (My queries) create/update operations
+QueryEngine - Akmal, Inham => MVP release done [IFrame implementation with HB], Query admin page disable query
 
 Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => BSC metrics grouping done, UI Unit conversions, Access mgt (waiting for API), Sales dashboard (waiting for API + waiting for chart conversion)
 
