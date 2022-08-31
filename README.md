@@ -1,11 +1,11 @@
 # 3P Daily Updates
-30th Aug 2022
+31st Aug 2022
 
 ## Gurpreet
-HB: waiting for access mgt APIs (connect w/ Himanshu)
+HB: Waiting for access mgt APIs (connect w/ Himanshu) => Still waiting for the APIs of Access Mgmt.
 
 ## Kuldeep
-HB: waiting for tasks
+HB: waiting for tasks => Idle (Open for tasks)
 
 ## Chandrama
 Magic: INL Type fixes => open for tasks (connect W/ Inham)
@@ -27,11 +27,11 @@ InstaHelp: N/A
 Flash: N/A
 
 ## Akmal
-QueryEngine: Enable disable queries, query select fields (imitate feature like google sheet), iframe dynamic height based on user's screen
+QueryEngine: Query manage filters (with a TSV v2 filter) + Jaspals UI CRs
 
-HB: Review APIs for access mgt, connect W/ Himanshu, Ankit & Gurpreet
+HB: N/A (waiting for APIs from Rohi)
 
-Magic: Review font change
+Magic: N/A
 
 InstaHelp: N/A
 
@@ -40,11 +40,11 @@ Flash: N/A
 ## Inhamul
 HB: N/A
 
-Magic: Review Chandrama's INL Type fixes
+Magic: Review Chandrama's INL Type fixes (Pending) + Review font change (Praveen)
 
-Flash: Review uinit conversion PR
+Flash: Review unit conversion PR (done & merged) => Waiting for Praveen's re-review of UI for any discrepancies
 
-QueryEngine: Connect W/ Akmal
+QueryEngine: Assist Akmal with bug fixes (if any)
 
 ### PL Ongoing Projects
 QueryEngine - Akmal, Inham => MVP release done [IFrame implementation with HB], Query admin page disable query
