@@ -1,33 +1,33 @@
 # 3P Daily Updates
-1st Sep 2022
+2nd Sep 2022
 
 ## Gurpreet
 HB: Still waiting for the APIs of Access Mgmt => Go through PO module
 
 ## Kuldeep
-HB: N/A, change font family to Roboto
+HB: N/A, change font family to Roboto => PO module UI improvements
 
 ## Chandrama
-Magic: All tickets page INL module => waiting for tasks, Type fixes
+Magic: Type fixes => contd.
 
 Flash: N/A
 
 ## Praveen
-Flash: PX to rem => waiting to be reviewed, change ff to roboto
+Flash: change ff to roboto => contd.
 
 Magic: Add new font-family => contd onf font-family, change styles
 
 ## Himanshu
-Magic: Export done => Backlog tickets (followup with Rohit for PR)
+HB: Test APIs once the PR is merged
 
-HB: HBWFM-104 group access APIs => access mgt API (waiting for review), check backlog ticket for access mgt.
+Magic: N/A
 
 Flash: N/A
 
 InstaHelp: N/A
 
 ## Akmal
-QueryEngine: Query manage filters (with a TSV v2 filter) => filter changes & review Inham's changes on create query
+QueryEngine: Connect W/ Inham query field edit, review admin changes
 
 HB: N/A (waiting for APIs from Rohit)
 
@@ -38,9 +38,9 @@ InstaHelp: N/A
 Flash: N/A
 
 ## Inhamul
-HB: N/A
+QueryEngine: Query creation upload CSV fields, disable query => CSV validation
 
-QueryEngine: Query creation upload CSV fields, disable query
+HB: N/A
 
 Magic: Review Chandrama's INL Type fixes (Pending) + Review font change (Praveen)
 
