@@ -2,10 +2,10 @@
 6th Sep 2022
 
 ## Gurpreet
-HB: Homepage changes (connect with Ankit & Shehzad)
+HB: Homepage changes (connect with Ankit)
 
 ## Kuldeep
-HB: charts UI changes requested, Homepage changes (connect with Ankit & Shehzad).
+HB: charts UI changes requested, Homepage changes (connect with Ankit).
 
 ## Chandrama
 Magic: INL Rule Mgt typedef => Ticket detials page (INL) type errors, Type fixes on INL
