@@ -1,33 +1,33 @@
 # 3P Daily Updates
-2nd Sep 2022
+6th Sep 2022
 
 ## Gurpreet
-HB: Still waiting for the APIs of Access Mgmt => Go through PO module
+HB: Homepage changes (connect with Ankit & Shehzad)
 
 ## Kuldeep
-HB: N/A, change font family to Roboto => PO module UI improvements
+HB: charts UI changes requested, Homepage changes (connect with Ankit & Shehzad).
 
 ## Chandrama
-Magic: Type fixes => contd.
+Magic: INL Rule Mgt typedef => Ticket detials page (INL) type errors, Type fixes on INL
 
 Flash: N/A
 
 ## Praveen
-Flash: change ff to roboto => contd.
+Flash: waiting for PR to be reviewed. (Inhamul)
 
-Magic: Add new font-family => contd onf font-family, change styles
+Magic: waiting for PR to be reviewed. (Inhamul)
 
 ## Himanshu
-HB: Test APIs once the PR is merged
+HB: HBW300 filter changes
 
-Magic: N/A
+Magic: INL Module APIs (Connect with Rohit)
 
 Flash: N/A
 
 InstaHelp: N/A
 
 ## Akmal
-QueryEngine: Connect W/ Inham query field edit, review admin changes
+QueryEngine: Testing QueryEngine on PRD - minor fixes to be done for v2 release.
 
 HB: N/A (waiting for APIs from Rohit)
 
