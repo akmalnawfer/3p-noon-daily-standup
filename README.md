@@ -1,24 +1,24 @@
 # 3P Daily Updates
-6th Sep 2022
+7th Sep 2022
 
 ## Gurpreet
-HB: Homepage changes (connect with Ankit)
+HB: Integrate access management APIs (filters)
 
 ## Kuldeep
-HB: charts UI changes requested, Homepage changes (connect with Ankit).
+HB: Homepage revamp UI
 
 ## Chandrama
-Magic: INL Rule Mgt typedef => Ticket detials page (INL) type errors, Type fixes on INL
+Magic: INL All ticket details page (data source error - connect W/ Akmal)
 
 Flash: N/A
 
 ## Praveen
-Flash: waiting for PR to be reviewed. (Inhamul)
+Flash: waiting for PR to be reviewed. (Inhamul/Akmal)
 
-Magic: waiting for PR to be reviewed. (Inhamul)
+Magic: waiting for PR to be reviewed. (Inhamul/Akmal), Dashboard module ChartJs => ANT charts
 
 ## Himanshu
-HB: HBW300 filter changes
+HB: HBW300 filter changes Contd, 
 
 Magic: INL Module APIs (Connect with Rohit)
 
@@ -27,7 +27,7 @@ Flash: N/A
 InstaHelp: N/A
 
 ## Akmal
-QueryEngine: Testing QueryEngine on PRD - minor fixes to be done for v2 release.
+QueryEngine: PRD demo, check any bugs raised QC, go through access mgt API (connect W/ Gurpreet)
 
 HB: N/A (waiting for APIs from Rohit)
 
@@ -48,11 +48,11 @@ Flash: Review unit conversion PR (done & merged) => Waiting for Praveen's re-rev
 
 
 ### PL Ongoing Projects
-QueryEngine - Akmal, Inham => Query admin page disable query & query creation csv upload for fields -- PRD release 2nd Sep 2022
+QueryEngine - Akmal, Inham => PRD demo, QC bugs
 
 Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => BSC metrics grouping done, UI Unit conversions, Access mgt (waiting for API), Sales dashboard (waiting for API + waiting for chart conversion)
 
-Magic - v3: Chandrama, Praveen, Inham => INL API Pending (Pending Code Review)
+Magic - v3: Chandrama, Praveen, Inham => INL API Pending (Pending Code Review), Dashboard module ANT charts implementation
 
 Flash - v3: Chandrama, Praveen, Inhamul => Type fixes, UI Unit conversions (Pending Review)
 
