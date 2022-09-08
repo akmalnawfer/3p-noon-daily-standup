@@ -1,24 +1,24 @@
 # 3P Daily Updates
-7th Sep 2022
+8th Sep 2022
 
 ## Gurpreet
-HB: Integrate access management APIs (filters)
+HB: Integrate access management APIs (filters) => User filters, Group filters.
 
 ## Kuldeep
-HB: Homepage revamp UI
+HB: Homepage revamp UI => contd Common layout (header & sidebar)
 
 ## Chandrama
-Magic: INL All ticket details page (data source error - connect W/ Akmal)
+Magic: INL module typefixes => open for tasks (connect W/Inhamul)
 
 Flash: N/A
 
 ## Praveen
-Flash: waiting for PR to be reviewed. (Inhamul/Akmal)
+Flash: SASS formatting (PR changes) => review other styles.
 
-Magic: waiting for PR to be reviewed. (Inhamul/Akmal), Dashboard module ChartJs => ANT charts
+Magic: Dashboard module ANT charts migration.
 
 ## Himanshu
-HB: HBW300 filter changes Contd, 
+HB: HBW-300 filter changes Table restructuring. HBW-645 (connect W/ Rohit) 
 
 Magic: INL Module APIs (Connect with Rohit)
 
@@ -27,9 +27,9 @@ Flash: N/A
 InstaHelp: N/A
 
 ## Akmal
-QueryEngine: PRD demo, check any bugs raised QC, go through access mgt API (connect W/ Gurpreet)
+QueryEngine: Improvements & QC change requests.
 
-HB: N/A (waiting for APIs from Rohit)
+HB: Followup with Gurpreet on User & group filtering & Kuldeep on Homepage changes. 
 
 Magic: N/A
 
@@ -38,17 +38,17 @@ InstaHelp: N/A
 Flash: N/A
 
 ## Inhamul
-QueryEngine: Query creation upload CSV fields, disable query => CSV validation
+QueryEngine: QC change requests
 
-HB: N/A
+HB: BSC module filters
 
-Magic: Review Chandrama's INL Type fixes (Pending) + Review font change (Praveen)
+Magic: Review INL module
 
 Flash: Review unit conversion PR (done & merged) => Waiting for Praveen's re-review of UI for any discrepancies
 
 
 ### PL Ongoing Projects
-QueryEngine - Akmal, Inham => PRD demo, QC bugs
+QueryEngine - Akmal, Inham => PRD release after QC
 
 Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => BSC metrics grouping done, UI Unit conversions, Access mgt (waiting for API), Sales dashboard (waiting for API + waiting for chart conversion)
 
