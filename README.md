@@ -1,46 +1,46 @@
 # 3P Daily Updates
-9th Sep 2022
+12th Sep 2022
 
 ## Gurpreet
-HB: User filters, Group filters => PR shared (waiting for review from Akmal) + in meantime will be assisting Kuldeep (Homepage revamp)
+HB: Filter functionality of access management has been shared, if there would be any related fixes or issues, he'll pick those, or he'll check for Homepage V2 functionality.
 
 ## Kuldeep
-HB:  contd Common layout (header & sidebar) => header/sidebar (completed), looking into the filters [Homepage Revamp]
+HB:  header/sidebar (completed), looking into the filters [Homepage Revamp] => Working on filters for Homepage Revamp 
 
 ## Chandrama
-Magic: INL module typefixes => Typefixes for main magic DMS (waiting for review from Inhamul)
+Magic: Typefixes for main magic DMS (waiting for review from Inhamul) => Connect wq/Inhamul for TS assist + task alloc.
 
 Flash: N/A
 
 ## Praveen
-Flash: SASS formatting (PR changes) => Changes pushed (waiting for review from Inhamul/Akmal)
+Flash: Changes pushed (waiting for review from Inhamul/Akmal) => Check w/Akmal on PR 
 
-Magic: Dashboard module ANT charts migration => Will be pushed for review by EOD.
+Magic: Will be pushed for review by EOD => Dashboard UI revamp pending (by EOD) (+ review w/Akmal)
 
 ## Himanshu
-HB: HBW-300 filter changes Table restructuring. HBW-645 => Waiting for review from Rohit [HBW-645], Waiting for db structure change from Ankit [HBW-300]
+HB: Waiting for review from Rohit [HBW-645], Waiting for db structure change from Ankit [HBW-300] => N/A ([HBW-645] - Review pending & [HBW-300] - on hold until DB changes )
 
-Magic: INL Module APIs (Connect with Rohit) => Pending connect with Rohit (still pending on who will run point on INL APIs)
+Magic: Pending connect with Rohit (still pending on who will run point on INL APIs) => Backlog APIs 
 
 Flash: N/A
 
 InstaHelp: N/A
 
 ## Akmal
-QueryEngine: Improvements & QC change requests => Preo. for v2 changes requested by PM + continuing on improvements
+QueryEngine: N/A
 
-HB: Review PR from GP for User & group filtering + Kuldeep on Homepage changes (filters UI). 
+HB: Review PR from GP for User & group filtering + Kuldeep on Homepage changes (filters UI)
 
-Magic: N/A
+Magic: dashboard UI ANT charts migration review
 
 InstaHelp: N/A
 
 Flash: N/A
 
 ## Inhamul
-HB: BSC module filters + meta attribute (waiting for APIs)
+HB: BSC module filters + meta attribute (waiting for APIs) => APIs still pending (blocked) + re-testing show/hide metrics (before PRD release)
 
-Magic: Making some fixes for INL Module + re-checking the UI for any inconsistencies + review type fixes by Chandrama
+Magic: Look into INL code/UI optimisations + assist in type fixes + review INL type fixes + UI enhancements PR.
 
 QueryEngine: N/A
 
