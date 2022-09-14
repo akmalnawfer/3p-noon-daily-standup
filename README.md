@@ -1,11 +1,11 @@
 # 3P Daily Updates
-13th Sep 2022
+14th Sep 2022
 
 ## Gurpreet
-HB: Check for Homepage V2 functionality => Sorting for Users/Group - PR created (working on feedback)
+HB: Check for Homepage V2 functionality => Contd. New tickets
 
 ## Kuldeep
-HB: Working on filters for Homepage Revamp => Dashboard/Home page for Access Mgmt, working on top-trends filter.
+HB: Homepage V2 Revamp => contd.
 
 ## Chandrama
 Magic: Connect wq/Inhamul for TS assist + task alloc. => Waiting for review on type fixes (w/Inhamul)
@@ -13,32 +13,33 @@ Magic: Connect wq/Inhamul for TS assist + task alloc. => Waiting for review on t
 Flash: N/A
 
 ## Praveen
-Flash: Check w/Akmal on PR 
+Flash: Check w/Akmal on PR
 
-Magic: Dashboard UI revamp pending (by EOD) (+ review w/Akmal) => Waiting for review on ant charts dashboard (review with either Akmal/Inhamul)
+Magic: Dashboard UI revamp => get rid of build errors & warnings
 
 ## Himanshu
 HB: N/A ([HBW-645] - Review pending & [HBW-300] - on hold until DB changes) => Review pending from Rohit (connect with Ankit on P2 filter issue)
 
-Magic: Backlog APIs => Working on product family filter + pendency isnull filter (connect w/Ankit on notif. panel)
+Magic: Working on product family filter + pendency isnull filter (connect w/Ankit on notif. panel) - Check push notifications
 
 Flash: N/A
 
 InstaHelp: N/A
 
 ## Akmal
-HB: Review PR from GP for User & group filtering + Kuldeep on Homepage changes (filters UI) => Review pending after feedback changes
+HB: Review PRs on Homepage v2
 
-Magic: dashboard UI ANT charts migration review => Review pending
+Magic: dashboard UI ANT charts migration review
+
+Flash: Review #194 Rem conversion
 
 QueryEngine: N/A
 
 InstaHelp: N/A
 
-Flash: N/A
 
 ## Inhamul
-HB: APIs still pending (blocked) + re-testing show/hide metrics (before PRD release) => Retest show/hide
+HB: Go through bugs raised by Hemlata, Amend changes requested by Akmal on the refactor, Error handler refactor, globalise functions, 
 
 Magic: Look into INL code/UI optimisations + assist in type fixes + review INL type fixes + UI enhancements PR => Contd.
 
