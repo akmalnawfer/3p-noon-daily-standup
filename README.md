@@ -1,5 +1,5 @@
 # 3P Daily Updates
-16th Sep 2022
+19th Sep 2022
 
 ## Gurpreet
 HB: Check on new tickets' feasibility [HBWFM-106,HBWFM-505,HBWFM-322,HBWFM-365,HBWFM-506,HBWFM-505,HBWFM-322,HBWFM-254,HBWFM-255,HBWFM-297] => Contd. on that
@@ -8,32 +8,32 @@ HB: Check on new tickets' feasibility [HBWFM-106,HBWFM-505,HBWFM-322,HBWFM-365,H
 HB: Homepage V2 Revamp => Aiming to finish Homepage revamp by EOD (then share PR w/Akmal for same)
 
 ## Chandrama
-Magic: TS review done, have been assigned to test TS fixes => Contd. on testing the TS fixes (CSV/TSV Bulk Upload + Single/Bulk Priority Change Done)
+Magic: Testing the TS fixes (CSV/TSV Bulk Upload + Single/Bulk Priority Change Done), User creation & User updation, Users & ticket filters. (Open for tasks)
 
 Flash: N/A
 
 ## Praveen
-Magic: Continuing on fixing some errors (connect w/Akmal for clarity) => Some type error on dashboard (looking into that)
+Magic: Completed Dashboard & waiting for PR => Start working on Unit Conversion (px to rem)
 
-Flash: Check w/Akmal on PR => Review Done
+Flash: N/A
 
 ## Himanshu
-Magic: product_family & pendency isnull pushed (waiting for deploy) + Check push notifications feasibility => R&D for push notifications feasibility + any backlog tickets that Rohit assigns
+Magic: R&D for push notifications feasibility, any backlog tickets that Rohit assigns
 
-HB: N/A ([HBW-645] - Review pending & [HBW-300] - on hold until DB changes) => Review pending from Rohit (connect with Ankit on P2 filter issue)
+HB: Next in line once Magic is done -- Home v2, group view & group edit page
 
 Flash: N/A
 
 InstaHelp: N/A
 
 ## Akmal
-Magic: dashboard UI ANT charts migration => Review ant.charts migration (once done)
+QueryEngine: NAT Integration
 
-HB: Review PRs on Homepage v2 => Contd. 
+Magic: N/A
 
-Flash: Review #194 Rem conversion => Done
+HB: N/A
 
-QueryEngine: N/A
+Flash: N/A
 
 InstaHelp: N/A
 
@@ -49,13 +49,13 @@ Flash: N/A
 
 
 ### PL Ongoing Projects
-QueryEngine - Akmal, Inham => PRD release after QC (Done)
+QueryEngine - Akmal, Inham => PRD release after QC (Done), NAT Integration, planning items for V2 release
 
-Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => BSC metrics grouping done, UI Unit conversions, Access Mgmt. (review pending), Sales dashboard (waiting for API + waiting for chart conversion)
+Heartbeat - v1: Gurpreet, Kuldeep, Inham, Akmal => BSC metrics grouping done, Access Mgmt, Sales dashboard (waiting for API + waiting for chart conversion)
 
-Magic - v3: Chandrama, Praveen, Inham => INL API Pending (Pending Code Review), Dashboard module ANT charts implementation
+Magic - v3: Chandrama, Praveen, Inham => INL API Pending (Pending Code Review), Frontend codebase refactor & testing
 
-Flash - v3: Chandrama, Praveen, Inhamul => Type fixes, UI Unit conversions (Pending Review)
+Flash - v3: Chandrama, Praveen, Inhamul => Nothing ATM
 
 InstaHelp - ONHOLD Gurpreet, Kuldeep => R&D + UI Implementation
 
