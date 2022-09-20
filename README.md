@@ -1,33 +1,33 @@
 # 3P Daily Updates
-19th Sep 2022
+20th Sep 2022
 
 ## Gurpreet
-HB: Check on new tickets' feasibility [HBWFM-106,HBWFM-505,HBWFM-322,HBWFM-365,HBWFM-506,HBWFM-505,HBWFM-322,HBWFM-254,HBWFM-255,HBWFM-297] => Contd. on that
+HB: Group details -- User listing (API integration) => Add users into a group (API integration)
 
 ## Kuldeep
-HB: Homepage V2 Revamp => Aiming to finish Homepage revamp by EOD (then share PR w/Akmal for same)
+HB: Aiming to finish Homepage revamp by EOD (then share PR w/Akmal for same => Fix issues raised by Akmal on Homepage V2
 
 ## Chandrama
-Magic: Testing the TS fixes (CSV/TSV Bulk Upload + Single/Bulk Priority Change Done), User creation & User updation, Users & ticket filters. (Open for tasks)
+Magic: Develop TS (refactor testing), fix any bugs 
 
 Flash: N/A
 
 ## Praveen
-Magic: Completed Dashboard & waiting for PR => Start working on Unit Conversion (px to rem)
+Magic: Working on Unit Conversion (px to rem)
 
 Flash: N/A
 
 ## Himanshu
-Magic: R&D for push notifications feasibility, any backlog tickets that Rohit assigns
+HB: Home v2, group view & group edit page => Contd. Connect W/ Ankit
 
-HB: Next in line once Magic is done -- Home v2, group view & group edit page
+Magic: Shifted priority to HB, looking into real time notifications feasibility.
 
 Flash: N/A
 
 InstaHelp: N/A
 
 ## Akmal
-QueryEngine: NAT Integration
+QueryEngine: NAT Integration => Contd.
 
 Magic: N/A
 
