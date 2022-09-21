@@ -1,33 +1,33 @@
 # 3P Daily Updates
-20th Sep 2022
+21st Sep 2022
 
 ## Gurpreet
-HB: Group details -- User listing (API integration) => Add users into a group (API integration)
+HB: Add users into a group (API integration) => Contd. 
 
 ## Kuldeep
-HB: Aiming to finish Homepage revamp by EOD (then share PR w/Akmal for same => Fix issues raised by Akmal on Homepage V2
+HB: Fix issues raised by Akmal on Homepage V2, Group listing UI changes => Look into spring 10 & 11 (connect W/ Akmal) 
 
 ## Chandrama
-Magic: Develop TS (refactor testing), fix any bugs 
+Magic: Develop TS (refactor testing) => Dev testing on context seperation
 
 Flash: N/A
 
 ## Praveen
-Magic: Working on Unit Conversion (px to rem)
+Magic: Users Module PX to REM conversion => Common components
 
 Flash: N/A
 
 ## Himanshu
-HB: Home v2, group view & group edit page => Contd. Connect W/ Ankit
+Magic: Bugs on resolution types & Family filters optimization
 
-Magic: Shifted priority to HB, looking into real time notifications feasibility.
+HB: Connect W/ Gurpreet on Adding users to group, look into multiple user adding
 
 Flash: N/A
 
 InstaHelp: N/A
 
 ## Akmal
-QueryEngine: NAT Integration => Contd.
+QueryEngine: Connect W/ Sajaad.
 
 Magic: N/A
 
@@ -39,9 +39,9 @@ InstaHelp: N/A
 
 
 ## Inhamul
-Magic: convert img tags to next/ant img + look into unwant `eslint-disabled` rules => Working to merge type fixes done throughout this week onto the INL branch + working on separating context on INL codebase for better maintainability [+ R&D for session based storage for locally caching commonly used filter data (API response caching)]
+Magic: API Integration 1124 -- family filter, object name change, 1127 -- Check null pendencies, 1142 -- Show family for tickets, 792 -- Show usernames on comments 
 
-HB: N/A
+HB: BSC 645 -- P2 date filter, 711 -- Adding comparison for P1
 
 QueryEngine: N/A
 
