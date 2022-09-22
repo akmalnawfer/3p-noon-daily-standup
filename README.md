@@ -1,33 +1,33 @@
 # 3P Daily Updates
-21st Sep 2022
+22nd Sep 2022
 
 ## Gurpreet
-HB: Add users into a group (API integration) => Contd. 
+HB: Add users into a group (API integration) => Continuing on user API integration
 
 ## Kuldeep
-HB: Fix issues raised by Akmal on Homepage V2, Group listing UI changes => Look into spring 10 & 11 (connect W/ Akmal) 
+HB: Look into spriny 10 & 11 (connect W/ Akmal) => Homepage revamp + changes sugg. by Akmal done; look into bugs from QA (otherwise idle)
 
 ## Chandrama
-Magic: Develop TS (refactor testing) => Dev testing on context seperation
+Magic: Dev testing on context seperation => Contd. on testing context sep.
 
 Flash: N/A
 
 ## Praveen
-Magic: Users Module PX to REM conversion => Common components
+Magic: Common components => User pages compl., ongoing on tickets page (REM conversion)
 
 Flash: N/A
 
 ## Himanshu
-Magic: Bugs on resolution types & Family filters optimization
+Magic: Bugs on resolution types & Family filters optimization => Done, will share PR
 
-HB: Connect W/ Gurpreet on Adding users to group, look into multiple user adding
+HB: Connect W/ Gurpreet on Adding users to group, look into multiple user adding => Working on P2 filter enhancement + Look into favourites API
 
 Flash: N/A
 
 InstaHelp: N/A
 
 ## Akmal
-QueryEngine: Connect W/ Sajaad.
+QueryEngine: N/A
 
 Magic: N/A
 
@@ -39,9 +39,9 @@ InstaHelp: N/A
 
 
 ## Inhamul
-Magic: API Integration 1124 -- family filter, object name change, 1127 -- Check null pendencies, 1142 -- Show family for tickets, 792 -- Show usernames on comments 
+Magic: Working on optimising the context separation + will look into integration the API caching (prob. using zustand) for commonly used APIs
 
-HB: BSC 645 -- P2 date filter, 711 -- Adding comparison for P1
+HB: BSC 645 -- P2 date filter, 711 -- Adding comparison for P1 => N/A
 
 QueryEngine: N/A
 
