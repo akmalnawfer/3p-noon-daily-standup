@@ -1,26 +1,26 @@
 # 3P Daily Updates
-22nd Sep 2022
+23rd Sep 2022
 
 ## Gurpreet
-HB: Add users into a group (API integration) => Continuing on user API integration
+HB: Continuing on user API integration => Group access rights (API) changes + Waiting for changes on update access right API 
 
 ## Kuldeep
-HB: Look into spriny 10 & 11 (connect W/ Akmal) => Homepage revamp + changes sugg. by Akmal done; look into bugs from QA (otherwise idle)
+HB: Homepage revamp + changes sugg. by Akmal done; look into bugs from QA (otherwise idle) => Idle (Waiting for tasks) + review access mod. text changes PR (Inhamul/Akmal)
 
 ## Chandrama
-Magic: Dev testing on context seperation => Contd. on testing context sep.
+Magic: Dev testing on context seperation => Contd. on testing context sep. + Test on API caching
 
 Flash: N/A
 
 ## Praveen
-Magic: Common components => User pages compl., ongoing on tickets page (REM conversion)
+Magic: Ongoing on tickets page (REM conversion) => Ticket pages REM conversion pending (connect w/Inhamul to re-check UI)
 
 Flash: N/A
 
 ## Himanshu
-Magic: Bugs on resolution types & Family filters optimization => Done, will share PR
+Magic: Done, will share PR => PR review pending (family filter optimisation + export resolution link bug fixes + single export)
 
-HB: Connect W/ Gurpreet on Adding users to group, look into multiple user adding => Working on P2 filter enhancement + Look into favourites API
+HB: Working on P2 filter enhancement + Look into favourites API => PR review pending (P2 filter changes + Group access filter) + Starting on favorites API
 
 Flash: N/A
 
@@ -39,9 +39,9 @@ InstaHelp: N/A
 
 
 ## Inhamul
-Magic: Working on optimising the context separation + will look into integration the API caching (prob. using zustand) for commonly used APIs
+Magic: INL Context optimsations + looking into issues CHandrama flagged on INL
 
-HB: BSC 645 -- P2 date filter, 711 -- Adding comparison for P1 => N/A
+HB: BSC 645 -- P2 date filter, 711 -- Adding comparison for P1 => Check the P2 filter change (after API)
 
 QueryEngine: N/A
 
@@ -57,6 +57,6 @@ Magic - v3: Chandrama, Praveen, Inham => INL API Pending (Pending Code Review), 
 
 Flash - v3: Chandrama, Praveen, Inhamul => Nothing ATM
 
-InstaHelp - ONHOLD Gurpreet, Kuldeep => R&D + UI Implementation
+InstaHelp - ONHOLD Gurpreet, Kuldeep => Nothing ATM
 
 Spark - onhold: Akmal
