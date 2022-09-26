@@ -1,33 +1,33 @@
 # 3P Daily Updates
-23rd Sep 2022
+26th Sep 2022
 
 ## Gurpreet
-HB: Continuing on user API integration => Group access rights (API) changes + Waiting for changes on update access right API 
+HB: Group details -- Add users, edit users => Group permissions, Edit group (waiting for APIs) + QueryEngine V2 release tickets W/ Akmal
 
 ## Kuldeep
-HB: Homepage revamp + changes sugg. by Akmal done; look into bugs from QA (otherwise idle) => Idle (Waiting for tasks) + review access mod. text changes PR (Inhamul/Akmal)
+HB: QueryEngine V2 release tickets W/ Akmal
 
 ## Chandrama
-Magic: Dev testing on context seperation => Contd. on testing context sep. + Test on API caching
+Magic: Zustand implementation & Dev testing on caching
 
 Flash: N/A
 
 ## Praveen
-Magic: Ongoing on tickets page (REM conversion) => Ticket pages REM conversion pending (connect w/Inhamul to re-check UI)
+Magic: px to rem conversion (waiting for tasks)
 
 Flash: N/A
 
 ## Himanshu
-Magic: Done, will share PR => PR review pending (family filter optimisation + export resolution link bug fixes + single export)
+HB: User submodule mapping API -- waiting for the PR to be reviewed (Rohit)
 
-HB: Working on P2 filter enhancement + Look into favourites API => PR review pending (P2 filter changes + Group access filter) + Starting on favorites API
+Magic: Done, will share PR => PR review pending (family filter optimisation + export resolution link bug fixes + single export)
 
 Flash: N/A
 
 InstaHelp: N/A
 
 ## Akmal
-QueryEngine: N/A
+QueryEngine: Adding tracker events to queryengine.
 
 Magic: N/A
 
@@ -39,9 +39,9 @@ InstaHelp: N/A
 
 
 ## Inhamul
-Magic: INL Context optimsations + looking into issues CHandrama flagged on INL
+Magic: Caching implementation
 
-HB: BSC 645 -- P2 date filter, 711 -- Adding comparison for P1 => Check the P2 filter change (after API)
+HB: N/A
 
 QueryEngine: N/A
 
