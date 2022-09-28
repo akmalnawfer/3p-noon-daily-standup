@@ -1,26 +1,26 @@
 # 3P Daily Updates
-27th Sep 2022
+28th Sep 2022
 
 ## Gurpreet
-HB: Group details -- Add users, edit users => Group permissions, Edit group (waiting for APIs) + QueryEngine V2 release tickets W/ Akmal
+HB: Group details -- Add users, edit users => Group permissions, Edit group (waiting for APIs) + Witing for PRs to be reviewed, ticket #870 discussion
 
 ## Kuldeep
-HB: 377 sidebar UI => contd., queryengine V2 changes HBWFM 500
+HB: queryengine V2 changes HBWFM 500 => 377 sidebar UI
 
 ## Chandrama
-Magic: Dev testing on Caching & Context seperation => waiting for tasks
+Magic: Dev testing on Caching & Context seperation => waiting for tasks connect W/ Inham
 
 Flash: N/A
 
 ## Praveen
-Magic: px to rem conversion (waiting for tasks)
+Magic: Review INL UI => waiting for tasks connect W/ Inham
 
 Flash: N/A
 
 ## Himanshu
 HB: User submodule mapping API -- waiting for the PR to be reviewed (Rohit) => Homepage revamp APIs (Frequent & favorite section), HBWFM-923 Adding timestamp on groups
 
-Magic: Done, will share PR => PR review pending (family filter optimisation + export resolution link bug fixes + single export)
+Magic: N/A
 
 Flash: N/A
 
@@ -39,7 +39,7 @@ InstaHelp: N/A
 
 
 ## Inhamul
-Magic: Caching implementation
+Magic: INL Module
 
 HB: N/A
 
