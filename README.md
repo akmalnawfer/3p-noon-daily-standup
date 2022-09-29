@@ -1,14 +1,14 @@
 # 3P Daily Updates
-28th Sep 2022
+29th Sep 2022
 
 ## Gurpreet
-HB: Group details -- Add users, edit users => Group permissions, Edit group (waiting for APIs) + Witing for PRs to be reviewed, ticket #870 discussion
+HB: Group permissions, Edit group Integrations
 
 ## Kuldeep
 HB: queryengine V2 changes HBWFM 500 => 377 sidebar UI
 
 ## Chandrama
-Magic: Dev testing on Caching & Context seperation => waiting for tasks connect W/ Inham
+Magic: Zustand go through => waiting for tasks
 
 Flash: N/A
 
@@ -18,9 +18,9 @@ Magic: Review INL UI => waiting for tasks connect W/ Inham
 Flash: N/A
 
 ## Himanshu
-HB: User submodule mapping API -- waiting for the PR to be reviewed (Rohit) => Homepage revamp APIs (Frequent & favorite section), HBWFM-923 Adding timestamp on groups
+HB: waiting for any changes on access mgt (if requested by FE)
 
-Magic: N/A
+Magic: MWFM-1163 (ticket details notification errors), notifications panel approach documentation.
 
 Flash: N/A
 
