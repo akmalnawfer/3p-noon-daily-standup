@@ -1,33 +1,33 @@
 # 3P Daily Updates
-29th Sep 2022
+30th Sep 2022
 
 ## Gurpreet
-HB: Group permissions, Edit group Integrations
+HB: Group permissions, Edit group Integrations => contd.
 
 ## Kuldeep
-HB: queryengine V2 changes HBWFM 500 => 377 sidebar UI
+HB: 377 sidebar UI
 
 ## Chandrama
-Magic: Zustand go through => waiting for tasks
+Magic: Zustand Documentation
 
-Flash: N/A
+Flash: Go through backlog to if there are any tickets to pickup
 
 ## Praveen
-Magic: Review INL UI => waiting for tasks connect W/ Inham
+Magic: Backlog tickets
 
-Flash: N/A
+Flash: Go through backlog to if there are any tickets to pickup
 
 ## Himanshu
-HB: waiting for any changes on access mgt (if requested by FE)
+Magic: Magic backlog tickets, Notifications panel discussion
 
-Magic: MWFM-1163 (ticket details notification errors), notifications panel approach documentation.
+HB: waiting for any changes on access mgt (if requested by FE)
 
 Flash: N/A
 
 InstaHelp: N/A
 
 ## Akmal
-QueryEngine: Adding tracker events to queryengine => contd. (on-hold)
+QueryEngine: Adding tracker events to queryengine (contd) => PRD release HB7
 
 Magic: N/A
 
