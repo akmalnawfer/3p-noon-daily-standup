@@ -39,7 +39,7 @@ InstaHelp: N/A
 
 
 ## Inhamul
-Magic: INL Module
+Magic: INL Module rule management
 
 HB: N/A
 
